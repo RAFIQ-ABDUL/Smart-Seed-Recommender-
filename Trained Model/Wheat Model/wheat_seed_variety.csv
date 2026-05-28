@@ -1,0 +1,1000 @@
+soil_type,region,water_source,irrigation_source,season,sown,sowing_window,soil_ph,temp,waterrequired,relative_humidity,n,p,k,cropduration,seed_variety
+silt loam,Potohar,irrigated,rainfed,rabi,Oct,early,6.2,22.1,636.8,57.6,118.9,51.5,47.9,80.4,Arooj-22
+silt loam,Canal Area,rainfed,mixed,rabi,Nov,optimal,6.1,23.4,480.0,53.0,115.6,55.0,58.4,82.5,Dilkash-20
+silt loam,South Punjab,irrigated,canal,rabi,Dec,late,6.8,21.7,579.6,55.8,82.2,45.4,47.3,89.5,Sawera-24
+silt loam,Canal Area,rainfed,mixed,rabi,Oct,early,6.4,21.4,566.5,51.6,102.7,55.5,45.3,84.6,Dilkash-20
+silt loam,Canal Area,irrigated,rainfed,rabi,Nov,optimal,6.2,21.4,593.5,59.0,99.4,55.5,50.7,83.4,Dilkash-20
+loamy,Central Punjab,rainfed,canal,rabi,Dec,late,6.4,22.7,602.7,50.8,111.5,50.4,50.5,85.1,Sawera-24
+silt loam,South Punjab,irrigated,rainfed,rabi,Oct,early,6.1,22.1,538.2,57.2,81.2,44.9,54.7,87.4,Falak-24
+loamy,South Punjab,rainfed,rainfed,rabi,Nov,optimal,6.2,21.8,592.2,52.6,92.9,48.2,49.2,85.4,Dilkash-20
+silt loam,South Punjab,irrigated,tube well,rabi,Dec,late,6.4,22.8,561.9,57.5,85.7,53.3,53.1,89.9,Sawera-24
+sandy loam,Canal Area,rainfed,canal,rabi,Oct,early,7.0,23.2,471.5,60.0,93.8,50.4,56.5,84.7,Dilkash-20
+clay loam,Potohar,irrigated,tube well,rabi,Nov,optimal,6.2,22.9,536.8,57.0,89.8,58.4,49.8,85.2,Subhani-21
+loamy,South Punjab,rainfed,canal,rabi,Dec,late,6.7,22.0,595.2,53.7,105.9,55.0,58.9,88.9,Sawera-24
+silt loam,Canal Area,irrigated,rainfed,rabi,Oct,early,6.9,22.8,484.3,55.0,89.6,47.4,57.6,88.0,Falak-24
+sandy loam,Central Punjab,rainfed,rainfed,rabi,Nov,optimal,6.6,22.0,532.8,52.6,88.1,54.2,59.9,83.3,Dilkash-20
+clay loam,Potohar,irrigated,mixed,rabi,Dec,late,6.4,21.2,590.9,56.5,92.6,52.4,56.6,81.5,Sawera-24
+loamy,Central Punjab,rainfed,canal,rabi,Oct,early,6.1,21.8,574.5,56.0,87.3,46.9,59.9,89.3,Dilkash-20
+clay loam,Potohar,irrigated,tube well,rabi,Nov,optimal,7.0,22.2,507.8,57.9,93.3,43.5,55.5,89.9,Subhani-21
+sandy loam,Canal Area,rainfed,mixed,rabi,Dec,late,7.0,23.4,554.1,54.4,116.3,42.8,53.6,83.1,Sawera-24
+loamy,Punjab North,irrigated,mixed,rabi,Oct,early,6.6,23.4,632.6,59.2,118.8,58.4,47.4,87.2,Falak-24
+clay loam,Potohar,rainfed,mixed,rabi,Nov,optimal,6.9,21.6,492.9,57.2,95.8,59.4,56.6,85.4,Subhani-21
+silt loam,Central Punjab,irrigated,tube well,rabi,Dec,late,6.8,23.1,649.3,50.7,89.6,41.6,52.0,86.3,Subhani-21
+loamy,Canal Area,rainfed,mixed,rabi,Oct,early,6.7,23.1,467.7,54.4,102.9,59.1,58.7,85.7,Dilkash-20
+clay loam,Potohar,irrigated,tube well,rabi,Nov,optimal,6.4,23.4,528.0,54.7,116.4,58.8,45.6,87.3,Subhani-21
+sandy loam,Punjab North,rainfed,mixed,rabi,Dec,late,6.9,22.2,510.3,56.9,93.4,47.7,51.1,85.6,Sawera-24
+sandy loam,Punjab North,irrigated,tube well,rabi,Oct,early,6.6,23.9,526.8,57.9,88.8,56.8,54.3,81.9,Falak-24
+loamy,South Punjab,rainfed,rainfed,rabi,Nov,optimal,6.2,21.1,462.6,54.0,111.6,58.1,44.0,84.3,Dilkash-20
+clay loam,South Punjab,irrigated,rainfed,rabi,Dec,late,6.4,22.9,546.2,57.4,81.3,52.6,50.3,80.1,Sawera-24
+loamy,Central Punjab,rainfed,rainfed,rabi,Oct,early,6.4,22.2,594.7,56.6,107.8,49.4,51.1,81.0,Dilkash-20
+loamy,Potohar,irrigated,rainfed,rabi,Nov,optimal,6.0,21.9,457.6,59.7,93.2,45.4,50.6,88.4,Arooj-22
+clay loam,Potohar,rainfed,rainfed,rabi,Dec,late,6.1,22.7,640.9,55.2,100.8,54.4,47.8,84.5,Arooj-22
+clay loam,South Punjab,irrigated,mixed,rabi,Oct,early,7.0,23.1,616.4,56.5,85.1,50.0,46.2,84.9,Sawera-24
+silt loam,Potohar,rainfed,mixed,rabi,Nov,optimal,6.3,21.3,625.0,56.3,105.6,45.8,47.9,86.0,Arooj-22
+clay loam,Potohar,irrigated,mixed,rabi,Dec,late,6.6,22.3,488.6,52.4,101.9,49.7,41.8,86.7,Sawera-24
+sandy loam,Punjab North,rainfed,tube well,rabi,Oct,early,6.6,23.7,491.6,56.3,86.5,50.7,53.9,88.3,Subhani-21
+loamy,South Punjab,irrigated,tube well,rabi,Nov,optimal,6.9,23.8,481.4,53.2,81.0,54.4,55.2,88.9,Sawera-24
+loamy,Canal Area,rainfed,tube well,rabi,Dec,late,6.8,23.1,495.0,55.3,85.0,52.9,58.4,89.1,Sawera-24
+sandy loam,South Punjab,irrigated,tube well,rabi,Oct,early,6.2,23.8,572.8,51.7,108.8,53.6,47.1,88.8,Arooj-22
+clay loam,Canal Area,rainfed,rainfed,rabi,Nov,optimal,6.4,21.9,640.4,55.2,104.7,45.6,49.0,80.5,Dilkash-20
+sandy loam,Punjab North,irrigated,rainfed,rabi,Dec,late,6.6,21.3,576.4,50.9,93.7,50.1,41.2,81.0,Arooj-22
+sandy loam,Central Punjab,rainfed,rainfed,rabi,Oct,early,6.1,21.9,601.1,55.2,99.9,51.4,49.6,83.9,Arooj-22
+silt loam,Potohar,irrigated,canal,rabi,Nov,optimal,6.5,21.1,488.8,58.2,82.0,53.6,49.2,88.6,Dilkash-20
+sandy loam,Punjab North,rainfed,mixed,rabi,Dec,late,6.1,23.1,609.7,52.8,105.6,50.0,50.4,86.8,Sawera-24
+loamy,Potohar,irrigated,tube well,rabi,Oct,early,6.6,22.0,579.7,55.4,113.1,53.3,59.9,85.7,Arooj-22
+sandy loam,Central Punjab,rainfed,tube well,rabi,Nov,optimal,6.1,23.3,478.8,52.8,100.8,59.8,57.8,87.1,Subhani-21
+loamy,Central Punjab,irrigated,rainfed,rabi,Dec,late,6.5,23.1,596.9,54.4,95.7,41.0,44.2,82.1,Sawera-24
+loamy,Punjab North,rainfed,tube well,rabi,Oct,early,6.8,23.5,545.9,57.0,93.7,46.6,51.6,83.6,Subhani-21
+loamy,Central Punjab,irrigated,tube well,rabi,Nov,optimal,6.7,23.6,492.3,51.2,116.3,58.0,54.2,88.4,Subhani-21
+clay loam,Canal Area,rainfed,mixed,rabi,Dec,late,6.0,23.9,485.9,57.1,118.7,59.5,46.3,80.3,Sawera-24
+silt loam,Central Punjab,irrigated,rainfed,rabi,Oct,early,7.0,21.9,531.8,53.1,93.8,46.1,56.5,83.1,Arooj-22
+loamy,Potohar,rainfed,mixed,rabi,Nov,optimal,6.6,23.6,629.2,58.4,118.2,48.7,56.8,81.0,Dilkash-20
+loamy,Potohar,irrigated,canal,rabi,Dec,late,6.9,23.0,552.9,52.2,94.2,44.8,55.1,83.1,Sawera-24
+clay loam,Potohar,rainfed,canal,rabi,Oct,early,6.3,22.4,455.1,55.0,118.3,42.6,43.3,87.8,Falak-24
+loamy,Potohar,irrigated,canal,rabi,Nov,optimal,7.0,21.2,627.0,59.9,88.0,45.5,44.5,84.8,Dilkash-20
+sandy loam,Canal Area,rainfed,rainfed,rabi,Dec,late,6.7,21.8,459.3,53.3,110.4,42.5,42.8,84.6,Sawera-24
+sandy loam,South Punjab,irrigated,tube well,rabi,Oct,early,6.9,22.5,576.3,52.0,102.7,52.0,53.8,83.6,Sawera-24
+silt loam,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.0,23.8,522.1,55.0,107.5,55.2,51.4,83.6,Falak-24
+loamy,Potohar,irrigated,rainfed,rabi,Dec,late,6.6,22.0,548.7,58.9,117.4,54.2,44.8,84.4,Arooj-22
+clay loam,Central Punjab,rainfed,tube well,rabi,Oct,early,6.3,22.2,582.7,52.0,114.3,48.9,43.2,81.8,Subhani-21
+sandy loam,Potohar,irrigated,mixed,rabi,Nov,optimal,6.0,22.9,550.4,59.5,81.5,59.3,58.1,84.6,Arooj-22
+clay loam,Central Punjab,rainfed,canal,rabi,Dec,late,6.9,23.2,502.9,56.5,98.4,46.7,51.3,85.5,Sawera-24
+clay loam,Central Punjab,irrigated,mixed,rabi,Oct,early,6.9,21.5,501.9,51.8,88.3,50.8,52.2,82.7,Subhani-21
+sandy loam,Potohar,rainfed,canal,rabi,Nov,optimal,6.5,21.1,551.3,55.0,117.8,53.9,48.0,84.8,Arooj-22
+clay loam,Canal Area,irrigated,rainfed,rabi,Dec,late,6.4,23.4,595.2,59.4,106.0,56.5,41.1,81.1,Sawera-24
+sandy loam,Central Punjab,rainfed,canal,rabi,Oct,early,7.0,21.3,567.3,58.4,116.8,40.6,58.2,89.0,Falak-24
+clay loam,Central Punjab,irrigated,rainfed,rabi,Nov,optimal,6.5,22.6,639.4,57.5,106.0,52.4,50.0,84.3,Subhani-21
+sandy loam,Potohar,rainfed,mixed,rabi,Dec,late,6.3,21.3,630.9,54.8,80.0,40.3,54.9,89.6,Arooj-22
+loamy,Central Punjab,irrigated,rainfed,rabi,Oct,early,7.0,23.0,583.8,53.8,99.4,59.6,53.9,84.7,Subhani-21
+silt loam,Central Punjab,rainfed,mixed,rabi,Nov,optimal,6.1,21.6,600.8,56.6,93.4,44.1,47.7,82.0,Dilkash-20
+sandy loam,Potohar,irrigated,tube well,rabi,Dec,late,6.4,23.2,513.3,58.9,88.8,47.6,41.8,84.9,Sawera-24
+sandy loam,Potohar,rainfed,tube well,rabi,Oct,early,7.0,22.2,603.2,58.1,107.5,56.7,57.3,83.8,Arooj-22
+silt loam,Punjab North,irrigated,tube well,rabi,Nov,optimal,6.6,23.9,498.4,50.0,92.7,48.7,57.4,84.2,Subhani-21
+sandy loam,Canal Area,rainfed,rainfed,rabi,Dec,late,6.2,22.2,641.0,58.7,107.8,47.0,52.1,84.4,Arooj-22
+sandy loam,Canal Area,irrigated,tube well,rabi,Oct,early,6.2,22.5,515.6,53.7,119.7,46.3,54.9,82.5,Dilkash-20
+clay loam,Central Punjab,rainfed,canal,rabi,Nov,optimal,6.1,22.8,616.9,55.8,112.0,41.2,55.8,81.6,Subhani-21
+silt loam,Canal Area,irrigated,mixed,rabi,Dec,late,6.9,21.3,627.7,59.5,102.3,44.4,53.4,81.5,Sawera-24
+loamy,Central Punjab,rainfed,mixed,rabi,Oct,early,6.9,21.0,633.4,53.6,107.6,42.0,60.0,81.5,Subhani-21
+sandy loam,Punjab North,irrigated,canal,rabi,Nov,optimal,6.3,22.5,551.7,50.8,84.5,54.2,41.3,80.9,Subhani-21
+silt loam,Potohar,rainfed,rainfed,rabi,Dec,late,6.2,23.6,462.4,59.7,84.2,51.7,51.4,84.9,Arooj-22
+clay loam,Potohar,irrigated,rainfed,rabi,Oct,early,6.1,22.8,479.0,56.5,114.2,52.8,40.7,88.8,Arooj-22
+loamy,Potohar,rainfed,mixed,rabi,Nov,optimal,6.7,22.1,487.0,50.6,91.6,40.2,57.2,86.4,Dilkash-20
+silt loam,Canal Area,irrigated,tube well,rabi,Dec,late,6.2,21.6,537.9,58.8,117.8,47.7,49.3,82.8,Dilkash-20
+loamy,Punjab North,rainfed,rainfed,rabi,Oct,early,6.3,23.1,573.8,52.0,113.1,51.2,50.4,87.0,Falak-24
+loamy,Canal Area,irrigated,rainfed,rabi,Nov,optimal,6.2,22.7,514.9,58.5,97.9,59.9,41.9,88.0,Dilkash-20
+loamy,Canal Area,rainfed,canal,rabi,Dec,late,6.9,21.8,478.8,55.1,100.9,48.0,58.2,83.4,Sawera-24
+sandy loam,Punjab North,irrigated,canal,rabi,Oct,early,6.4,23.6,517.7,58.1,109.9,46.0,56.2,89.8,Falak-24
+sandy loam,Punjab North,rainfed,tube well,rabi,Nov,optimal,6.9,23.4,561.9,59.3,80.1,42.3,50.5,83.8,Subhani-21
+clay loam,Punjab North,irrigated,rainfed,rabi,Dec,late,6.4,21.6,581.9,50.2,95.4,58.0,45.8,81.2,Falak-24
+clay loam,Punjab North,rainfed,rainfed,rabi,Oct,early,6.1,21.2,554.8,52.5,111.6,50.0,57.1,89.2,Falak-24
+silt loam,Potohar,irrigated,canal,rabi,Nov,optimal,6.2,23.5,489.8,53.2,109.2,58.5,45.7,82.9,Dilkash-20
+clay loam,South Punjab,rainfed,rainfed,rabi,Dec,late,6.6,23.3,586.6,52.3,101.0,52.6,58.6,83.8,Sawera-24
+loamy,South Punjab,irrigated,mixed,rabi,Oct,early,6.5,22.1,511.4,54.4,94.2,54.4,40.5,89.6,Sawera-24
+loamy,Punjab North,rainfed,canal,rabi,Nov,optimal,6.9,21.8,519.2,59.2,86.6,44.1,42.0,84.1,Subhani-21
+sandy loam,South Punjab,irrigated,tube well,rabi,Dec,late,6.8,21.5,544.5,58.6,86.0,41.5,45.8,81.4,Sawera-24
+loamy,South Punjab,rainfed,canal,rabi,Oct,early,6.1,22.1,512.7,54.7,84.3,42.3,58.3,81.5,Falak-24
+silt loam,Punjab North,irrigated,rainfed,rabi,Nov,optimal,6.3,23.4,637.2,56.8,116.8,48.5,47.0,80.9,Falak-24
+loamy,South Punjab,rainfed,tube well,rabi,Dec,late,6.9,22.8,588.7,58.9,109.8,50.7,51.3,85.2,Sawera-24
+loamy,Canal Area,irrigated,canal,rabi,Oct,early,6.4,23.2,514.2,54.5,91.4,54.2,46.9,88.8,Dilkash-20
+silt loam,Central Punjab,rainfed,mixed,rabi,Nov,optimal,6.9,21.8,491.1,54.2,95.2,48.4,59.1,83.6,Subhani-21
+clay loam,Central Punjab,irrigated,mixed,rabi,Dec,late,6.6,23.9,642.9,54.0,107.8,56.0,51.7,85.3,Subhani-21
+clay loam,Punjab North,rainfed,canal,rabi,Oct,early,6.4,23.0,458.8,52.5,104.6,40.8,53.5,86.2,Falak-24
+silt loam,Potohar,irrigated,mixed,rabi,Nov,optimal,6.6,21.3,497.4,55.9,115.5,55.0,50.0,80.6,Arooj-22
+sandy loam,Punjab North,rainfed,mixed,rabi,Dec,late,6.8,21.9,624.4,53.9,117.1,48.9,44.8,89.9,Sawera-24
+loamy,Potohar,irrigated,mixed,rabi,Oct,early,6.7,23.0,550.0,56.6,89.9,46.3,49.5,83.5,Arooj-22
+silt loam,Central Punjab,rainfed,tube well,rabi,Nov,optimal,6.2,21.8,483.5,57.9,86.1,47.9,54.6,89.0,Dilkash-20
+loamy,Punjab North,irrigated,mixed,rabi,Dec,late,6.9,21.4,469.2,59.4,92.4,47.7,54.5,82.8,Sawera-24
+sandy loam,Canal Area,rainfed,mixed,rabi,Oct,early,6.4,22.1,573.9,55.4,116.6,48.9,50.2,86.5,Arooj-22
+loamy,South Punjab,irrigated,mixed,rabi,Nov,optimal,6.5,22.6,632.1,53.9,97.9,40.3,45.0,86.7,Dilkash-20
+silt loam,Potohar,rainfed,tube well,rabi,Dec,late,6.6,23.8,590.3,51.0,89.1,56.5,57.2,88.8,Sawera-24
+loamy,South Punjab,irrigated,canal,rabi,Oct,early,6.9,21.1,641.2,58.9,112.8,46.1,50.7,84.4,Sawera-24
+clay loam,South Punjab,rainfed,rainfed,rabi,Nov,optimal,6.6,21.4,608.4,52.8,95.4,54.3,51.9,86.8,Subhani-21
+sandy loam,Punjab North,irrigated,mixed,rabi,Dec,late,6.3,23.2,458.7,53.0,99.0,56.5,57.3,85.5,Sawera-24
+sandy loam,South Punjab,rainfed,canal,rabi,Oct,early,6.1,22.2,642.3,58.9,104.9,57.2,59.2,83.7,Falak-24
+sandy loam,Canal Area,irrigated,mixed,rabi,Nov,optimal,6.1,22.1,575.2,58.9,92.9,47.4,47.1,80.0,Dilkash-20
+silt loam,South Punjab,rainfed,tube well,rabi,Dec,late,6.6,21.1,649.4,52.7,115.0,57.0,40.1,84.6,Sawera-24
+sandy loam,Punjab North,irrigated,canal,rabi,Oct,early,6.2,23.5,555.5,54.4,102.4,55.3,45.1,84.1,Falak-24
+clay loam,Canal Area,rainfed,tube well,rabi,Nov,optimal,6.5,21.7,484.3,58.4,98.6,43.7,45.1,85.9,Subhani-21
+silt loam,Central Punjab,irrigated,mixed,rabi,Dec,late,6.3,21.3,586.8,56.5,115.4,55.2,46.7,89.3,Dilkash-20
+clay loam,South Punjab,rainfed,mixed,rabi,Oct,early,6.6,21.8,454.6,51.5,88.3,43.5,53.1,87.1,Sawera-24
+loamy,Punjab North,irrigated,tube well,rabi,Nov,optimal,6.5,22.5,602.5,54.2,111.3,46.1,42.8,89.7,Subhani-21
+loamy,Central Punjab,rainfed,rainfed,rabi,Dec,late,6.7,22.0,472.8,51.6,93.2,54.3,55.1,85.4,Sawera-24
+loamy,Central Punjab,irrigated,tube well,rabi,Oct,early,6.4,23.9,631.8,55.3,89.5,48.7,52.7,89.9,Subhani-21
+loamy,Potohar,rainfed,mixed,rabi,Nov,optimal,7.0,22.8,512.2,57.5,81.4,53.2,47.1,86.1,Dilkash-20
+clay loam,Canal Area,irrigated,tube well,rabi,Dec,late,6.3,22.9,548.1,55.1,105.7,53.4,45.7,87.6,Sawera-24
+silt loam,South Punjab,rainfed,rainfed,rabi,Oct,early,6.5,21.3,567.5,50.4,95.5,45.3,45.7,89.4,Arooj-22
+silt loam,Punjab North,irrigated,tube well,rabi,Nov,optimal,6.8,23.4,647.0,52.1,105.6,47.9,40.2,83.5,Subhani-21
+sandy loam,Potohar,rainfed,rainfed,rabi,Dec,late,6.3,22.1,644.4,54.3,95.3,53.7,45.1,83.4,Arooj-22
+clay loam,Canal Area,irrigated,rainfed,rabi,Oct,early,6.8,23.3,643.6,53.2,83.8,44.9,56.5,86.1,Subhani-21
+loamy,Potohar,rainfed,tube well,rabi,Nov,optimal,6.1,22.3,571.6,54.4,115.4,44.1,48.2,86.5,Dilkash-20
+clay loam,Canal Area,irrigated,tube well,rabi,Dec,late,6.1,22.9,584.1,55.5,113.1,59.0,51.7,88.2,Sawera-24
+sandy loam,Canal Area,rainfed,canal,rabi,Oct,early,6.4,23.0,565.7,59.4,105.9,49.3,50.9,82.5,Dilkash-20
+sandy loam,South Punjab,irrigated,mixed,rabi,Nov,optimal,6.6,22.7,450.0,51.8,88.9,41.7,50.5,83.2,Sawera-24
+clay loam,Canal Area,rainfed,rainfed,rabi,Dec,late,6.7,21.6,573.1,51.3,94.3,46.7,55.3,87.1,Sawera-24
+clay loam,Potohar,irrigated,canal,rabi,Oct,early,6.2,22.1,480.4,54.0,108.4,40.6,45.5,86.0,Falak-24
+clay loam,Canal Area,rainfed,tube well,rabi,Nov,optimal,6.6,21.3,571.0,55.4,89.2,58.3,48.6,82.4,Subhani-21
+silt loam,South Punjab,irrigated,mixed,rabi,Dec,late,6.4,21.5,584.9,59.8,97.2,42.3,58.4,86.4,Sawera-24
+loamy,South Punjab,rainfed,canal,rabi,Oct,early,7.0,22.6,585.2,51.4,89.0,43.6,44.0,82.8,Sawera-24
+clay loam,Potohar,irrigated,rainfed,rabi,Nov,optimal,6.1,21.6,590.1,55.8,108.3,49.5,48.5,86.9,Arooj-22
+clay loam,Central Punjab,rainfed,canal,rabi,Dec,late,6.2,23.2,611.7,50.3,116.3,57.8,40.4,83.2,Subhani-21
+clay loam,Central Punjab,irrigated,rainfed,rabi,Oct,early,6.9,23.5,514.0,52.2,85.5,57.2,51.7,86.1,Subhani-21
+sandy loam,Canal Area,rainfed,tube well,rabi,Nov,optimal,6.2,23.9,613.8,55.3,104.5,57.2,60.0,80.4,Dilkash-20
+sandy loam,Punjab North,irrigated,mixed,rabi,Dec,late,6.2,23.2,556.5,53.5,99.6,59.1,52.9,80.3,Sawera-24
+silt loam,Canal Area,rainfed,mixed,rabi,Oct,early,6.8,22.0,629.9,57.5,87.2,53.2,42.1,89.2,Dilkash-20
+loamy,Potohar,irrigated,mixed,rabi,Nov,optimal,6.8,22.4,455.5,55.8,105.4,42.3,47.8,85.0,Dilkash-20
+silt loam,Potohar,rainfed,tube well,rabi,Dec,late,6.6,22.5,532.9,52.4,94.1,56.5,40.5,81.1,Falak-24
+loamy,Potohar,irrigated,rainfed,rabi,Oct,early,6.5,22.5,558.3,59.2,84.7,52.4,55.6,84.6,Arooj-22
+sandy loam,Potohar,rainfed,tube well,rabi,Nov,optimal,6.6,22.9,459.9,57.3,89.1,47.4,47.6,85.3,Arooj-22
+sandy loam,Potohar,irrigated,mixed,rabi,Dec,late,6.7,21.5,628.7,58.6,89.0,52.5,47.6,84.9,Arooj-22
+sandy loam,South Punjab,rainfed,tube well,rabi,Oct,early,6.7,22.6,560.4,54.3,104.4,40.1,44.4,87.5,Sawera-24
+silt loam,Central Punjab,irrigated,tube well,rabi,Nov,optimal,6.8,22.1,612.6,52.7,103.4,52.1,52.5,88.6,Subhani-21
+clay loam,Potohar,rainfed,tube well,rabi,Dec,late,6.2,22.4,589.1,56.4,114.7,41.3,44.5,83.7,Subhani-21
+clay loam,Punjab North,irrigated,rainfed,rabi,Oct,early,6.9,22.0,482.6,58.1,114.0,45.4,52.6,87.7,Falak-24
+sandy loam,Punjab North,rainfed,canal,rabi,Nov,optimal,6.9,22.7,466.5,56.6,80.0,54.6,50.1,81.5,Subhani-21
+clay loam,Punjab North,irrigated,canal,rabi,Dec,late,6.4,21.4,590.2,59.6,97.8,59.4,42.0,80.6,Falak-24
+clay loam,Punjab North,rainfed,tube well,rabi,Oct,early,6.4,22.9,618.2,52.5,105.7,40.4,40.9,87.3,Falak-24
+silt loam,South Punjab,irrigated,canal,rabi,Nov,optimal,6.4,23.7,499.8,54.8,89.8,47.4,56.6,86.8,Dilkash-20
+loamy,Punjab North,rainfed,canal,rabi,Dec,late,6.2,23.3,484.5,56.9,116.5,49.1,43.9,87.0,Sawera-24
+sandy loam,Potohar,irrigated,tube well,rabi,Oct,early,6.2,21.4,629.5,51.9,109.9,51.8,41.7,81.6,Arooj-22
+sandy loam,Canal Area,rainfed,tube well,rabi,Nov,optimal,6.7,23.2,478.5,50.9,95.2,54.0,46.5,85.7,Dilkash-20
+silt loam,Punjab North,irrigated,mixed,rabi,Dec,late,6.5,22.2,610.7,55.4,103.1,54.6,50.2,85.6,Falak-24
+silt loam,South Punjab,rainfed,canal,rabi,Oct,early,6.9,21.2,605.0,59.1,83.4,40.5,49.9,83.3,Falak-24
+clay loam,South Punjab,irrigated,rainfed,rabi,Nov,optimal,6.2,21.7,510.4,58.1,82.1,43.1,54.8,88.6,Dilkash-20
+sandy loam,Punjab North,rainfed,tube well,rabi,Dec,late,6.1,21.1,473.9,59.8,103.1,45.3,44.9,80.9,Falak-24
+loamy,Canal Area,irrigated,mixed,rabi,Oct,early,6.9,21.7,483.7,51.3,112.9,44.4,50.1,85.1,Dilkash-20
+silt loam,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.9,22.0,622.8,55.9,112.5,44.9,58.9,81.6,Falak-24
+loamy,South Punjab,irrigated,canal,rabi,Dec,late,6.1,21.5,485.7,53.8,98.5,57.3,42.4,81.5,Sawera-24
+loamy,Central Punjab,rainfed,mixed,rabi,Oct,early,6.5,21.2,602.2,51.0,109.4,47.9,47.7,88.0,Dilkash-20
+sandy loam,Potohar,irrigated,tube well,rabi,Nov,optimal,6.5,22.7,637.1,56.4,112.1,52.3,44.9,80.5,Arooj-22
+sandy loam,South Punjab,rainfed,rainfed,rabi,Dec,late,6.3,23.9,474.9,59.0,81.3,41.4,47.9,86.8,Sawera-24
+silt loam,Punjab North,irrigated,tube well,rabi,Oct,early,6.7,22.6,490.0,57.1,112.0,58.9,50.8,83.8,Falak-24
+sandy loam,Potohar,rainfed,canal,rabi,Nov,optimal,6.7,22.3,463.9,59.5,83.3,58.1,41.5,83.7,Arooj-22
+sandy loam,Punjab North,irrigated,rainfed,rabi,Dec,late,6.7,22.8,614.5,57.2,87.4,43.5,53.8,87.0,Sawera-24
+sandy loam,Punjab North,rainfed,canal,rabi,Oct,early,6.9,23.0,584.0,58.0,87.7,51.9,59.1,88.8,Falak-24
+loamy,Central Punjab,irrigated,canal,rabi,Nov,optimal,6.5,21.3,472.4,55.8,98.1,50.3,55.6,89.7,Dilkash-20
+silt loam,Potohar,rainfed,mixed,rabi,Dec,late,6.3,23.9,533.3,57.9,99.5,41.9,57.2,83.6,Arooj-22
+clay loam,Potohar,irrigated,tube well,rabi,Oct,early,6.8,21.7,578.0,51.1,120.0,40.2,59.7,90.0,Falak-24
+loamy,Central Punjab,rainfed,rainfed,rabi,Nov,optimal,6.7,22.1,487.3,53.1,98.8,51.7,41.6,83.0,Dilkash-20
+sandy loam,South Punjab,irrigated,canal,rabi,Dec,late,6.6,22.1,578.8,50.6,100.4,40.7,51.7,85.1,Sawera-24
+loamy,Punjab North,rainfed,canal,rabi,Oct,early,6.3,22.5,480.7,52.9,97.2,54.7,47.4,87.7,Falak-24
+sandy loam,Canal Area,irrigated,rainfed,rabi,Nov,optimal,6.2,23.3,493.7,55.8,114.4,52.9,55.4,84.4,Arooj-22
+sandy loam,Punjab North,rainfed,canal,rabi,Dec,late,6.9,22.4,635.3,54.6,96.5,43.6,46.3,87.9,Sawera-24
+loamy,Punjab North,irrigated,mixed,rabi,Oct,early,6.3,23.2,589.9,54.2,116.3,48.9,43.3,85.7,Falak-24
+silt loam,South Punjab,rainfed,mixed,rabi,Nov,optimal,6.0,23.2,570.5,53.1,80.6,59.8,47.1,85.4,Sawera-24
+sandy loam,Punjab North,irrigated,mixed,rabi,Dec,late,6.8,23.7,619.1,56.1,114.5,43.1,46.3,82.9,Sawera-24
+silt loam,Central Punjab,rainfed,mixed,rabi,Oct,early,6.8,21.2,494.5,53.2,96.1,52.5,52.0,86.3,Falak-24
+clay loam,Central Punjab,irrigated,canal,rabi,Nov,optimal,6.5,23.8,539.1,51.2,84.8,58.9,44.1,88.0,Subhani-21
+sandy loam,Potohar,rainfed,rainfed,rabi,Dec,late,6.1,23.9,640.5,52.7,115.2,54.6,59.2,82.5,Arooj-22
+silt loam,Canal Area,irrigated,rainfed,rabi,Oct,early,6.5,23.7,594.7,59.4,93.0,58.9,44.7,81.4,Arooj-22
+silt loam,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.4,21.6,545.1,54.1,92.6,55.1,55.7,80.9,Falak-24
+clay loam,Punjab North,irrigated,rainfed,rabi,Dec,late,6.3,22.3,618.9,56.4,112.0,47.9,57.3,87.5,Falak-24
+silt loam,South Punjab,rainfed,tube well,rabi,Oct,early,6.2,21.1,544.7,51.2,110.5,50.7,40.7,85.6,Falak-24
+silt loam,Central Punjab,irrigated,rainfed,rabi,Nov,optimal,6.8,22.2,558.8,56.2,94.3,43.5,49.0,80.6,Dilkash-20
+clay loam,Canal Area,rainfed,tube well,rabi,Dec,late,6.3,22.2,594.4,57.0,102.6,51.1,58.6,89.2,Dilkash-20
+sandy loam,Potohar,irrigated,tube well,rabi,Oct,early,6.2,23.3,557.9,55.1,104.2,43.4,46.2,86.4,Arooj-22
+silt loam,Central Punjab,rainfed,mixed,rabi,Nov,optimal,6.2,22.6,512.1,56.2,96.3,42.5,41.8,84.5,Dilkash-20
+silt loam,Potohar,irrigated,tube well,rabi,Dec,late,6.9,21.2,576.5,57.8,112.4,51.5,59.7,83.3,Falak-24
+silt loam,South Punjab,rainfed,canal,rabi,Oct,early,6.7,21.1,620.3,51.7,111.2,45.1,57.9,82.2,Falak-24
+loamy,South Punjab,irrigated,tube well,rabi,Nov,optimal,6.7,21.3,534.2,54.0,111.0,41.6,41.9,83.3,Dilkash-20
+clay loam,Punjab North,rainfed,mixed,rabi,Dec,late,6.0,23.0,525.8,56.3,103.0,46.9,44.1,88.6,Subhani-21
+loamy,Canal Area,irrigated,tube well,rabi,Oct,early,6.3,21.6,533.3,52.5,84.5,40.6,50.9,89.4,Dilkash-20
+clay loam,Potohar,rainfed,canal,rabi,Nov,optimal,6.7,22.4,528.7,56.3,96.8,47.2,43.0,88.0,Subhani-21
+sandy loam,Central Punjab,irrigated,canal,rabi,Dec,late,6.6,21.5,596.0,53.0,84.9,58.8,50.5,88.2,Sawera-24
+sandy loam,South Punjab,rainfed,canal,rabi,Oct,early,6.6,21.5,535.1,55.4,91.8,45.8,58.3,84.4,Arooj-22
+silt loam,Punjab North,irrigated,mixed,rabi,Nov,optimal,6.1,24.0,581.3,52.1,107.7,40.5,58.2,83.0,Falak-24
+clay loam,Punjab North,rainfed,mixed,rabi,Dec,late,6.6,22.5,568.3,51.6,91.6,49.5,57.7,88.3,Subhani-21
+clay loam,South Punjab,rainfed,mixed,rabi,Nov,optimal,6.4,21.1,610.7,59.3,118.7,50.2,40.4,80.3,Sawera-24
+sandy loam,Canal Area,irrigated,canal,rabi,Dec,late,6.4,23.7,483.0,52.8,116.9,40.7,54.5,83.7,Sawera-24
+loamy,South Punjab,rainfed,canal,rabi,Oct,early,6.1,23.4,640.2,53.0,84.8,40.1,49.5,85.8,Sawera-24
+sandy loam,Potohar,irrigated,mixed,rabi,Nov,optimal,6.1,22.3,648.8,59.7,115.4,44.1,47.6,82.0,Arooj-22
+loamy,Potohar,rainfed,tube well,rabi,Dec,late,6.1,22.4,632.3,59.4,115.8,59.7,56.7,82.3,Sawera-24
+sandy loam,South Punjab,irrigated,mixed,rabi,Oct,early,6.4,23.5,644.4,56.0,104.5,45.7,44.7,88.7,Sawera-24
+silt loam,Potohar,rainfed,mixed,rabi,Nov,optimal,6.5,21.1,516.4,50.8,90.4,49.1,55.5,84.2,Arooj-22
+loamy,South Punjab,irrigated,canal,rabi,Dec,late,7.0,23.4,566.8,59.4,98.1,46.6,43.1,85.7,Sawera-24
+sandy loam,Central Punjab,rainfed,rainfed,rabi,Oct,early,6.1,23.5,585.9,52.4,95.9,49.5,40.0,81.8,Arooj-22
+silt loam,South Punjab,irrigated,canal,rabi,Nov,optimal,6.2,23.4,507.5,50.1,83.9,41.5,52.4,83.8,Dilkash-20
+loamy,South Punjab,rainfed,rainfed,rabi,Dec,late,6.3,23.5,603.3,59.3,87.8,56.4,48.3,84.4,Sawera-24
+silt loam,Potohar,irrigated,canal,rabi,Oct,early,6.5,21.2,451.7,54.0,111.3,51.7,59.0,86.8,Falak-24
+clay loam,Potohar,rainfed,mixed,rabi,Nov,optimal,6.9,23.0,527.9,55.5,89.0,43.8,41.5,88.0,Subhani-21
+clay loam,Punjab North,irrigated,canal,rabi,Dec,late,6.5,23.0,506.8,50.4,112.9,49.3,43.9,82.6,Subhani-21
+loamy,Punjab North,rainfed,canal,rabi,Oct,early,6.4,23.6,482.5,58.5,84.1,53.0,50.7,80.0,Falak-24
+sandy loam,Central Punjab,irrigated,canal,rabi,Nov,optimal,7.0,21.9,514.7,54.3,83.0,41.4,54.3,85.7,Subhani-21
+loamy,Punjab North,rainfed,mixed,rabi,Dec,late,6.4,22.1,476.7,52.7,105.6,45.9,55.8,84.0,Sawera-24
+silt loam,South Punjab,irrigated,mixed,rabi,Oct,early,6.4,21.2,454.3,55.1,115.4,46.2,41.8,86.6,Falak-24
+sandy loam,Potohar,rainfed,mixed,rabi,Nov,optimal,6.9,22.4,510.5,53.2,82.5,55.2,42.3,81.6,Arooj-22
+clay loam,Punjab North,irrigated,mixed,rabi,Dec,late,7.0,21.5,503.8,52.6,111.7,47.6,54.4,82.9,Subhani-21
+sandy loam,Punjab North,rainfed,rainfed,rabi,Oct,early,6.7,21.2,548.2,53.4,84.6,46.6,52.3,86.6,Arooj-22
+clay loam,Central Punjab,irrigated,rainfed,rabi,Nov,optimal,6.4,22.5,585.8,50.2,104.5,54.2,40.5,83.5,Subhani-21
+sandy loam,Central Punjab,rainfed,tube well,rabi,Dec,late,6.4,23.5,501.3,50.0,99.3,46.6,42.2,80.8,Subhani-21
+sandy loam,South Punjab,irrigated,mixed,rabi,Oct,early,6.2,24.0,646.7,58.4,115.1,47.6,58.1,81.4,Arooj-22
+sandy loam,Potohar,rainfed,rainfed,rabi,Nov,optimal,6.4,23.7,461.5,53.2,103.6,49.1,58.1,86.8,Arooj-22
+silt loam,Central Punjab,irrigated,canal,rabi,Dec,late,6.1,22.9,592.6,52.8,80.3,45.2,53.0,86.9,Sawera-24
+silt loam,Punjab North,rainfed,mixed,rabi,Oct,early,7.0,22.3,556.8,58.8,82.6,43.2,54.4,86.2,Falak-24
+loamy,Potohar,irrigated,tube well,rabi,Nov,optimal,6.2,21.4,649.0,52.0,80.2,56.4,55.9,87.0,Dilkash-20
+loamy,Potohar,rainfed,tube well,rabi,Dec,late,6.1,22.2,452.6,59.1,108.1,50.6,41.7,84.9,Sawera-24
+clay loam,Punjab North,irrigated,tube well,rabi,Oct,early,6.9,23.6,609.1,51.5,95.2,47.0,43.0,86.7,Subhani-21
+silt loam,Central Punjab,rainfed,canal,rabi,Nov,optimal,7.0,23.8,548.9,51.6,101.7,41.6,49.5,88.4,Subhani-21
+clay loam,Punjab North,irrigated,rainfed,rabi,Dec,late,6.6,22.5,499.5,53.5,118.0,43.6,46.1,80.4,Subhani-21
+loamy,Potohar,rainfed,canal,rabi,Oct,early,6.8,22.2,573.9,57.4,112.2,57.8,44.1,86.1,Arooj-22
+clay loam,Canal Area,irrigated,mixed,rabi,Nov,optimal,6.5,21.6,516.8,57.3,92.9,50.8,55.2,80.2,Dilkash-20
+loamy,Canal Area,rainfed,tube well,rabi,Dec,late,6.8,23.8,620.0,54.3,111.6,57.4,45.2,82.8,Sawera-24
+silt loam,South Punjab,irrigated,canal,rabi,Oct,early,6.1,22.7,641.5,58.2,81.3,51.1,53.2,87.8,Falak-24
+sandy loam,Punjab North,rainfed,canal,rabi,Nov,optimal,6.2,22.5,493.9,56.6,82.9,45.2,55.7,82.0,Falak-24
+silt loam,Punjab North,irrigated,rainfed,rabi,Dec,late,6.8,23.2,609.2,59.8,99.9,41.5,48.3,80.6,Falak-24
+clay loam,South Punjab,rainfed,rainfed,rabi,Oct,early,6.8,23.8,612.6,59.6,98.1,40.6,52.6,86.1,Sawera-24
+clay loam,South Punjab,irrigated,tube well,rabi,Nov,optimal,6.3,23.8,589.7,51.1,101.2,58.5,59.1,85.5,Subhani-21
+silt loam,South Punjab,rainfed,canal,rabi,Dec,late,6.1,22.7,562.9,56.8,88.5,40.9,41.0,86.3,Sawera-24
+silt loam,Potohar,irrigated,canal,rabi,Oct,early,6.4,22.3,641.4,56.6,119.5,53.9,56.1,82.4,Falak-24
+loamy,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.0,23.5,460.0,52.9,99.1,59.5,55.8,87.0,Subhani-21
+clay loam,Potohar,irrigated,canal,rabi,Dec,late,6.4,21.7,478.6,59.9,98.5,41.1,58.0,85.1,Sawera-24
+clay loam,South Punjab,rainfed,canal,rabi,Oct,early,7.0,22.5,523.8,57.2,111.3,56.7,59.9,82.6,Sawera-24
+silt loam,Punjab North,irrigated,canal,rabi,Nov,optimal,6.2,23.8,531.6,58.7,112.6,59.8,48.4,87.1,Falak-24
+sandy loam,Potohar,rainfed,rainfed,rabi,Dec,late,6.4,22.2,478.4,52.9,83.9,55.9,55.6,89.7,Arooj-22
+clay loam,Potohar,irrigated,tube well,rabi,Oct,early,6.3,22.1,599.7,59.3,116.0,40.4,49.3,81.8,Arooj-22
+sandy loam,South Punjab,rainfed,mixed,rabi,Nov,optimal,6.5,21.5,539.0,58.6,96.1,49.2,45.7,82.2,Sawera-24
+silt loam,Punjab North,irrigated,tube well,rabi,Dec,late,6.3,22.8,543.4,51.3,109.7,49.5,40.5,86.0,Falak-24
+silt loam,South Punjab,rainfed,mixed,rabi,Oct,early,6.4,21.3,603.0,54.8,96.6,45.5,44.2,87.4,Falak-24
+loamy,Punjab North,irrigated,canal,rabi,Nov,optimal,6.8,22.7,454.2,57.4,118.2,40.4,40.2,85.8,Subhani-21
+clay loam,Canal Area,rainfed,tube well,rabi,Dec,late,6.0,22.7,491.5,52.8,98.4,43.1,52.4,86.3,Sawera-24
+sandy loam,Central Punjab,irrigated,mixed,rabi,Oct,early,6.7,22.5,459.8,53.3,113.3,54.6,58.0,88.7,Arooj-22
+loamy,Central Punjab,rainfed,rainfed,rabi,Nov,optimal,6.9,21.1,611.5,50.9,108.1,54.9,59.3,86.5,Subhani-21
+clay loam,Central Punjab,irrigated,rainfed,rabi,Dec,late,6.9,21.9,594.2,51.9,89.9,59.9,43.9,84.1,Subhani-21
+loamy,South Punjab,rainfed,tube well,rabi,Oct,early,6.5,23.0,639.2,55.5,98.2,52.3,46.1,88.8,Sawera-24
+silt loam,Canal Area,irrigated,tube well,rabi,Nov,optimal,6.5,22.2,578.1,51.3,108.1,59.2,43.3,87.4,Dilkash-20
+clay loam,Punjab North,rainfed,canal,rabi,Dec,late,6.8,22.1,584.3,50.5,115.4,52.5,45.7,82.8,Subhani-21
+loamy,Potohar,irrigated,tube well,rabi,Oct,early,6.4,22.9,576.6,53.8,104.8,46.0,59.5,84.4,Falak-24
+loamy,Punjab North,rainfed,canal,rabi,Nov,optimal,6.7,23.7,601.4,58.2,101.6,43.1,54.4,88.6,Subhani-21
+sandy loam,Potohar,irrigated,canal,rabi,Dec,late,6.5,22.4,488.0,51.0,84.0,58.8,59.7,82.4,Arooj-22
+loamy,Punjab North,rainfed,rainfed,rabi,Oct,early,6.8,22.4,529.3,54.0,110.8,58.9,52.2,83.9,Falak-24
+clay loam,Canal Area,irrigated,rainfed,rabi,Nov,optimal,6.6,22.9,615.6,50.3,101.5,58.4,59.4,81.2,Dilkash-20
+clay loam,Potohar,rainfed,mixed,rabi,Dec,late,6.2,21.5,538.2,56.3,97.0,43.3,47.6,82.9,Arooj-22
+sandy loam,South Punjab,irrigated,rainfed,rabi,Oct,early,6.5,23.6,528.3,59.0,103.6,47.7,49.3,85.5,Arooj-22
+clay loam,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.3,21.8,619.2,55.5,102.5,44.3,59.1,85.5,Subhani-21
+silt loam,Punjab North,irrigated,tube well,rabi,Dec,late,7.0,21.1,636.3,59.6,100.1,42.2,49.0,82.4,Falak-24
+clay loam,Potohar,rainfed,rainfed,rabi,Oct,early,6.8,23.4,546.6,57.4,95.7,58.8,57.8,88.4,Arooj-22
+clay loam,South Punjab,irrigated,mixed,rabi,Nov,optimal,6.3,23.0,635.2,54.2,84.2,46.2,50.1,89.3,Subhani-21
+loamy,South Punjab,rainfed,tube well,rabi,Dec,late,6.0,21.5,552.9,53.2,88.0,47.8,57.5,87.1,Sawera-24
+loamy,Canal Area,irrigated,mixed,rabi,Oct,early,6.4,21.7,640.3,54.6,83.4,57.6,43.7,84.9,Dilkash-20
+clay loam,South Punjab,rainfed,rainfed,rabi,Nov,optimal,6.3,22.8,461.5,52.4,96.3,42.3,58.8,81.3,Subhani-21
+sandy loam,South Punjab,irrigated,mixed,rabi,Dec,late,6.6,23.3,646.1,52.3,84.0,55.3,55.1,81.4,Sawera-24
+loamy,South Punjab,rainfed,tube well,rabi,Oct,early,6.2,23.8,607.1,59.6,95.4,45.0,43.6,85.1,Sawera-24
+sandy loam,Central Punjab,irrigated,canal,rabi,Nov,optimal,6.9,21.2,603.1,54.5,94.0,50.8,50.5,85.4,Subhani-21
+clay loam,Canal Area,rainfed,mixed,rabi,Dec,late,6.3,21.5,579.3,54.1,119.1,40.8,40.5,82.3,Sawera-24
+clay loam,Punjab North,irrigated,mixed,rabi,Oct,early,6.7,21.2,548.7,51.8,99.4,57.3,50.3,83.3,Falak-24
+silt loam,Potohar,rainfed,tube well,rabi,Nov,optimal,6.9,23.0,594.1,55.0,106.6,59.6,54.8,85.9,Subhani-21
+loamy,Punjab North,irrigated,tube well,rabi,Dec,late,6.4,21.1,561.3,55.0,117.7,58.0,48.9,87.8,Sawera-24
+clay loam,Canal Area,rainfed,mixed,rabi,Oct,early,6.8,21.7,466.6,57.9,105.0,58.4,42.2,87.9,Dilkash-20
+silt loam,Potohar,irrigated,rainfed,rabi,Nov,optimal,6.3,22.7,599.6,54.9,105.5,46.4,55.8,87.4,Arooj-22
+loamy,Canal Area,rainfed,mixed,rabi,Dec,late,6.5,22.2,463.0,51.6,80.6,56.5,45.6,89.4,Sawera-24
+clay loam,South Punjab,irrigated,tube well,rabi,Oct,early,6.7,22.1,644.7,55.7,86.9,41.9,43.6,83.6,Subhani-21
+clay loam,Potohar,rainfed,canal,rabi,Nov,optimal,6.5,23.4,637.3,50.2,94.5,56.8,53.2,86.6,Subhani-21
+loamy,South Punjab,irrigated,canal,rabi,Dec,late,6.6,23.6,587.8,56.1,116.3,51.7,41.2,85.5,Sawera-24
+loamy,Punjab North,rainfed,rainfed,rabi,Oct,early,7.0,23.4,461.3,58.0,119.0,52.9,55.7,80.5,Falak-24
+loamy,Punjab North,irrigated,mixed,rabi,Nov,optimal,6.1,23.5,529.0,52.5,90.2,53.3,48.7,85.7,Subhani-21
+clay loam,Potohar,rainfed,canal,rabi,Dec,late,6.4,22.7,599.8,59.3,110.8,44.7,51.1,80.0,Sawera-24
+clay loam,Potohar,irrigated,mixed,rabi,Oct,early,7.0,22.2,542.2,56.9,110.4,43.0,44.5,89.7,Arooj-22
+silt loam,Canal Area,rainfed,tube well,rabi,Nov,optimal,6.3,21.0,472.9,55.2,112.7,47.1,59.4,81.1,Dilkash-20
+sandy loam,Canal Area,irrigated,canal,rabi,Dec,late,6.8,23.0,484.1,52.5,119.0,57.6,54.4,80.4,Sawera-24
+loamy,South Punjab,rainfed,rainfed,rabi,Oct,early,7.0,23.1,533.0,59.1,119.7,40.0,59.1,81.6,Sawera-24
+clay loam,Potohar,irrigated,tube well,rabi,Nov,optimal,6.2,21.1,469.4,56.9,83.4,48.8,43.3,86.6,Subhani-21
+clay loam,Punjab North,rainfed,rainfed,rabi,Dec,late,6.9,23.3,471.9,57.6,96.8,56.2,55.7,84.1,Subhani-21
+loamy,Canal Area,irrigated,tube well,rabi,Oct,early,6.2,21.6,629.5,57.2,109.1,57.8,42.3,81.3,Dilkash-20
+sandy loam,Canal Area,rainfed,canal,rabi,Nov,optimal,6.2,23.6,450.9,57.5,84.5,50.1,45.5,80.5,Dilkash-20
+loamy,Punjab North,irrigated,rainfed,rabi,Dec,late,6.0,22.4,571.2,51.4,106.3,47.0,41.7,80.2,Falak-24
+sandy loam,Canal Area,rainfed,rainfed,rabi,Oct,early,6.1,21.8,468.9,56.5,109.8,40.7,43.7,85.7,Arooj-22
+clay loam,South Punjab,irrigated,tube well,rabi,Nov,optimal,6.6,23.8,465.8,51.3,118.6,41.5,50.5,83.6,Subhani-21
+sandy loam,Potohar,rainfed,rainfed,rabi,Dec,late,6.0,21.2,455.8,55.7,102.6,51.0,51.3,82.0,Arooj-22
+silt loam,Punjab North,irrigated,tube well,rabi,Oct,early,6.6,21.3,455.7,56.3,104.9,50.8,57.6,80.4,Falak-24
+clay loam,Potohar,rainfed,tube well,rabi,Nov,optimal,6.5,22.7,479.0,51.0,115.0,44.1,42.4,80.2,Subhani-21
+silt loam,Canal Area,irrigated,tube well,rabi,Dec,late,6.9,22.3,587.7,55.5,108.3,51.0,42.9,80.2,Dilkash-20
+loamy,Canal Area,rainfed,tube well,rabi,Oct,early,6.0,21.8,529.9,54.3,89.9,53.8,52.1,86.4,Dilkash-20
+loamy,Punjab North,irrigated,canal,rabi,Nov,optimal,6.9,21.1,553.0,60.0,103.7,46.8,55.5,86.9,Subhani-21
+loamy,South Punjab,rainfed,tube well,rabi,Dec,late,6.2,21.8,532.9,51.4,111.1,52.0,46.3,88.3,Sawera-24
+sandy loam,Central Punjab,irrigated,mixed,rabi,Oct,early,6.9,21.3,609.9,58.4,83.6,42.6,44.0,88.1,Arooj-22
+clay loam,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.9,21.4,485.0,53.7,97.2,51.8,52.3,85.3,Subhani-21
+loamy,Central Punjab,irrigated,mixed,rabi,Dec,late,6.4,22.0,468.8,57.8,90.9,57.3,45.3,81.5,Sawera-24
+loamy,Central Punjab,rainfed,canal,rabi,Oct,early,6.1,22.1,493.2,58.3,90.1,51.5,46.9,83.9,Dilkash-20
+clay loam,South Punjab,irrigated,mixed,rabi,Nov,optimal,7.0,22.3,599.9,54.0,114.3,59.4,57.7,84.5,Subhani-21
+loamy,Central Punjab,rainfed,rainfed,rabi,Dec,late,6.8,21.1,562.5,53.3,91.0,59.0,46.0,82.7,Sawera-24
+silt loam,Central Punjab,irrigated,mixed,rabi,Oct,early,6.9,21.7,485.4,51.1,99.9,54.0,53.6,82.2,Falak-24
+clay loam,South Punjab,rainfed,canal,rabi,Nov,optimal,6.4,23.2,515.7,58.0,104.6,58.9,50.5,87.7,Sawera-24
+clay loam,Central Punjab,irrigated,tube well,rabi,Dec,late,6.1,23.5,635.5,58.9,109.6,48.8,44.3,85.5,Subhani-21
+clay loam,Central Punjab,rainfed,mixed,rabi,Oct,early,6.3,22.7,560.7,53.1,99.6,47.5,55.1,81.5,Subhani-21
+silt loam,Central Punjab,irrigated,canal,rabi,Nov,optimal,6.2,21.1,589.8,56.3,104.7,53.9,50.4,84.3,Dilkash-20
+clay loam,Punjab North,rainfed,canal,rabi,Dec,late,6.4,22.3,451.6,55.0,85.9,49.0,53.6,80.9,Subhani-21
+silt loam,Punjab North,irrigated,rainfed,rabi,Oct,early,6.7,22.0,541.0,56.3,114.1,41.6,57.8,89.5,Falak-24
+clay loam,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.8,21.3,514.5,59.5,110.1,51.3,40.3,81.5,Subhani-21
+sandy loam,South Punjab,irrigated,mixed,rabi,Dec,late,7.0,23.3,542.6,56.9,82.0,48.9,43.5,82.5,Sawera-24
+loamy,Canal Area,rainfed,tube well,rabi,Oct,early,7.0,21.8,555.1,55.7,80.8,43.6,55.6,83.5,Dilkash-20
+sandy loam,Central Punjab,irrigated,canal,rabi,Nov,optimal,6.9,23.7,551.3,52.1,114.7,41.8,54.8,87.8,Subhani-21
+loamy,Central Punjab,rainfed,mixed,rabi,Dec,late,6.3,23.8,456.2,53.4,85.0,55.6,52.0,80.5,Sawera-24
+silt loam,South Punjab,irrigated,canal,rabi,Oct,early,6.2,21.2,569.6,59.3,108.8,49.6,56.2,87.2,Falak-24
+sandy loam,Central Punjab,rainfed,canal,rabi,Nov,optimal,6.1,23.4,649.2,53.2,99.3,49.5,50.8,88.9,Subhani-21
+clay loam,Punjab North,irrigated,tube well,rabi,Dec,late,6.3,23.0,492.4,57.0,105.5,43.2,59.6,80.6,Subhani-21
+loamy,Canal Area,rainfed,tube well,rabi,Oct,early,6.0,21.7,634.1,53.5,81.5,48.3,47.6,88.5,Dilkash-20
+loamy,Potohar,irrigated,mixed,rabi,Nov,optimal,6.3,22.5,594.2,54.1,109.3,53.6,56.0,88.2,Dilkash-20
+sandy loam,Central Punjab,rainfed,tube well,rabi,Dec,late,7.0,21.1,595.7,51.1,114.4,55.6,40.0,82.7,Subhani-21
+silt loam,Punjab North,irrigated,tube well,rabi,Oct,early,6.7,23.3,627.5,52.8,108.4,53.3,53.2,81.9,Falak-24
+sandy loam,Potohar,rainfed,mixed,rabi,Nov,optimal,6.0,22.3,641.2,57.6,102.4,52.0,48.7,89.8,Arooj-22
+silt loam,Canal Area,irrigated,tube well,rabi,Dec,late,6.5,22.5,599.8,55.8,102.0,40.8,56.1,88.5,Dilkash-20
+silt loam,Potohar,rainfed,rainfed,rabi,Oct,early,6.3,22.2,630.5,51.2,91.0,58.5,51.6,88.0,Arooj-22
+loamy,Punjab North,irrigated,canal,rabi,Nov,optimal,6.7,23.4,583.8,55.4,95.5,49.2,57.7,85.8,Subhani-21
+sandy loam,Potohar,rainfed,canal,rabi,Dec,late,6.2,23.3,508.6,56.1,103.9,45.6,60.0,84.3,Sawera-24
+sandy loam,South Punjab,irrigated,canal,rabi,Oct,early,6.6,22.9,549.9,55.4,83.5,55.7,46.6,86.4,Sawera-24
+silt loam,Potohar,rainfed,canal,rabi,Nov,optimal,6.9,23.4,483.9,58.7,86.7,50.4,41.3,80.2,Dilkash-20
+sandy loam,Central Punjab,irrigated,mixed,rabi,Dec,late,6.1,21.3,488.3,54.7,96.4,40.3,40.1,87.0,Sawera-24
+clay loam,Central Punjab,rainfed,canal,rabi,Oct,early,6.7,21.8,457.3,57.0,99.6,59.3,59.1,82.1,Subhani-21
+clay loam,South Punjab,irrigated,canal,rabi,Nov,optimal,6.5,24.0,479.0,53.1,118.5,51.5,54.6,86.1,Sawera-24
+sandy loam,Punjab North,rainfed,canal,rabi,Dec,late,6.2,23.0,530.2,59.5,81.1,51.5,57.6,80.5,Falak-24
+sandy loam,Central Punjab,irrigated,canal,rabi,Oct,early,6.4,21.1,611.8,54.3,94.9,54.1,59.5,83.1,Falak-24
+silt loam,Canal Area,rainfed,rainfed,rabi,Nov,optimal,6.4,22.4,634.7,55.1,116.3,56.8,41.6,86.4,Dilkash-20
+clay loam,Central Punjab,irrigated,canal,rabi,Dec,late,6.2,22.3,647.5,57.9,80.5,42.6,43.9,87.1,Subhani-21
+clay loam,Central Punjab,rainfed,rainfed,rabi,Oct,early,6.6,22.9,616.4,50.8,109.8,49.9,56.3,85.8,Subhani-21
+loamy,Punjab North,irrigated,mixed,rabi,Nov,optimal,6.3,21.6,489.6,55.0,85.8,49.8,56.5,84.0,Falak-24
+silt loam,Potohar,rainfed,tube well,rabi,Dec,late,6.3,22.7,643.8,56.7,93.3,51.8,42.8,88.7,Falak-24
+loamy,Central Punjab,irrigated,canal,rabi,Oct,early,6.4,22.4,605.8,50.9,92.9,40.3,44.6,88.6,Dilkash-20
+clay loam,South Punjab,rainfed,tube well,rabi,Nov,optimal,6.5,21.7,567.4,50.1,103.7,53.1,41.8,81.4,Subhani-21
+silt loam,Potohar,irrigated,tube well,rabi,Dec,late,6.8,23.0,521.5,52.0,106.9,49.3,54.0,84.4,Sawera-24
+sandy loam,Canal Area,rainfed,mixed,rabi,Oct,early,6.4,21.3,555.6,55.0,94.4,44.5,50.6,85.8,Arooj-22
+silt loam,Punjab North,irrigated,tube well,rabi,Nov,optimal,6.4,23.4,572.6,51.8,96.4,54.5,60.0,85.0,Subhani-21
+sandy loam,Canal Area,rainfed,rainfed,rabi,Dec,late,6.9,23.0,574.8,56.1,80.3,46.5,42.7,82.4,Sawera-24
+sandy loam,Potohar,irrigated,tube well,rabi,Oct,early,6.1,23.9,461.9,52.3,93.3,53.2,48.2,88.0,Arooj-22
+silt loam,Potohar,rainfed,tube well,rabi,Nov,optimal,6.2,21.1,483.1,58.0,98.9,58.8,50.9,89.8,Arooj-22
+sandy loam,Potohar,irrigated,tube well,rabi,Dec,late,6.9,21.9,533.7,50.8,90.3,49.6,45.4,81.9,Arooj-22
+loamy,Canal Area,rainfed,canal,rabi,Oct,early,7.0,21.8,603.6,53.4,114.4,56.0,41.9,88.0,Dilkash-20
+clay loam,Potohar,irrigated,canal,rabi,Nov,optimal,6.0,21.4,589.2,59.2,106.4,58.0,45.5,87.5,Falak-24
+sandy loam,Canal Area,rainfed,rainfed,rabi,Dec,late,6.4,21.3,510.5,58.3,85.4,57.5,54.2,89.3,Arooj-22
+loamy,Potohar,irrigated,rainfed,rabi,Oct,early,6.3,23.4,498.5,55.6,111.0,60.0,52.1,84.5,Arooj-22
+sandy loam,South Punjab,rainfed,canal,rabi,Nov,optimal,6.6,21.7,596.9,55.5,101.2,56.0,57.8,80.6,Sawera-24
+clay loam,Potohar,irrigated,rainfed,rabi,Dec,late,6.9,21.9,581.3,54.1,100.7,40.9,40.2,83.8,Arooj-22
+loamy,Canal Area,rainfed,canal,rabi,Oct,early,6.3,23.2,586.8,51.2,112.7,53.9,46.6,88.1,Dilkash-20
+clay loam,Central Punjab,irrigated,mixed,rabi,Nov,optimal,6.4,21.1,565.2,55.9,100.7,54.5,58.9,84.9,Subhani-21
+clay loam,Potohar,rainfed,tube well,rabi,Dec,late,6.6,21.0,487.2,58.4,82.3,45.8,41.6,82.9,Sawera-24
+loamy,Central Punjab,irrigated,tube well,rabi,Oct,early,6.3,22.3,464.6,59.6,116.2,41.0,45.4,85.0,Subhani-21
+loamy,South Punjab,rainfed,rainfed,rabi,Nov,optimal,6.0,22.3,525.9,51.7,85.1,57.1,59.7,81.6,Dilkash-20
+loamy,Punjab North,irrigated,canal,rabi,Dec,late,6.5,22.0,647.3,57.7,82.0,58.7,55.9,87.3,Sawera-24
+silt loam,South Punjab,rainfed,canal,rabi,Oct,early,6.8,22.8,472.8,54.5,119.4,46.1,46.0,82.1,Falak-24
+loamy,Potohar,irrigated,rainfed,rabi,Nov,optimal,6.1,22.6,463.6,52.4,100.6,46.3,40.0,82.6,Arooj-22
+loamy,Central Punjab,rainfed,canal,rabi,Dec,late,6.2,22.6,461.2,51.3,84.7,57.9,54.9,80.9,Sawera-24
+loamy,Central Punjab,irrigated,mixed,rabi,Oct,early,6.8,21.7,474.4,54.5,97.2,52.7,43.2,85.4,Dilkash-20
+loamy,Canal Area,rainfed,tube well,rabi,Nov,optimal,6.2,22.2,535.2,54.9,100.0,45.3,59.3,80.3,Dilkash-20
+sandy loam,Central Punjab,irrigated,rainfed,rabi,Dec,late,6.1,21.0,511.8,57.9,106.9,59.9,49.7,81.6,Arooj-22
+silt loam,Canal Area,rainfed,rainfed,rabi,Oct,early,6.2,21.8,495.3,51.4,82.6,52.7,45.9,83.9,Arooj-22
+clay loam,Punjab North,irrigated,canal,rabi,Nov,optimal,6.1,21.4,483.1,55.2,99.4,54.4,58.4,88.5,Falak-24
+loamy,Potohar,rainfed,rainfed,rabi,Dec,late,6.8,23.6,630.3,56.9,113.8,44.1,41.4,86.3,Sawera-24
+sandy loam,Canal Area,irrigated,mixed,rabi,Oct,early,6.2,22.6,512.8,58.4,101.1,53.4,47.9,86.0,Arooj-22
+sandy loam,Punjab North,rainfed,canal,rabi,Nov,optimal,6.5,23.5,479.9,57.7,102.2,55.8,45.6,88.1,Subhani-21
+sandy loam,Central Punjab,irrigated,canal,rabi,Dec,late,6.3,21.0,624.6,51.2,95.1,42.8,45.7,88.8,Sawera-24
+clay loam,Central Punjab,rainfed,canal,rabi,Oct,early,6.2,23.3,484.1,57.7,117.4,42.0,56.0,80.9,Subhani-21
+loamy,Punjab North,irrigated,canal,rabi,Nov,optimal,6.7,23.5,458.8,50.6,80.2,41.3,59.7,85.5,Subhani-21
+silt loam,Central Punjab,rainfed,mixed,rabi,Dec,late,6.6,21.7,611.4,53.2,100.8,42.7,54.5,87.2,Dilkash-20
+silt loam,Punjab North,irrigated,canal,rabi,Oct,early,6.5,21.1,571.9,59.8,93.6,40.0,57.8,84.4,Falak-24
+sandy loam,Canal Area,rainfed,rainfed,rabi,Nov,optimal,6.6,23.6,452.7,58.7,91.5,43.0,45.8,86.1,Dilkash-20
+clay loam,Canal Area,irrigated,mixed,rabi,Dec,late,6.8,24.0,525.2,53.0,97.1,44.7,54.1,84.9,Sawera-24
+clay loam,Punjab North,rainfed,tube well,rabi,Oct,early,6.1,22.1,461.0,53.7,87.0,56.2,51.7,83.9,Falak-24
+clay loam,Canal Area,irrigated,tube well,rabi,Nov,optimal,6.4,22.5,590.2,57.3,83.0,46.0,48.2,85.3,Subhani-21
+silt loam,Canal Area,rainfed,rainfed,rabi,Dec,late,6.8,21.2,580.6,58.2,84.0,57.0,55.6,81.8,Dilkash-20
+sandy loam,Canal Area,irrigated,rainfed,rabi,Oct,early,6.7,22.9,591.4,58.7,80.6,51.3,48.6,90.0,Arooj-22
+loamy,South Punjab,rainfed,mixed,rabi,Nov,optimal,6.5,21.0,549.9,54.8,90.4,51.4,50.1,81.1,Sawera-24
+silt loam,Potohar,irrigated,tube well,rabi,Dec,late,6.7,22.9,632.6,53.3,85.7,53.6,48.3,80.8,Sawera-24
+sandy loam,Central Punjab,rainfed,tube well,rabi,Oct,early,7.0,23.5,504.1,57.8,117.1,57.2,51.8,86.0,Subhani-21
+sandy loam,South Punjab,irrigated,tube well,rabi,Nov,optimal,6.5,21.1,569.9,53.1,98.2,43.1,59.4,86.3,Sawera-24
+loamy,Canal Area,rainfed,tube well,rabi,Dec,late,6.4,21.2,590.8,52.2,116.2,48.4,54.8,81.9,Sawera-24
+loamy,Punjab North,irrigated,tube well,rabi,Oct,early,6.9,23.6,525.1,55.7,105.4,43.3,57.6,87.5,Falak-24
+loamy,Canal Area,rainfed,canal,rabi,Nov,optimal,7.0,23.9,602.3,60.0,86.7,53.7,54.0,89.6,Dilkash-20
+clay loam,Potohar,irrigated,rainfed,rabi,Dec,late,7.0,23.7,500.2,57.6,117.4,40.9,53.9,89.8,Sawera-24
+loamy,Canal Area,rainfed,canal,rabi,Oct,early,6.6,22.3,590.0,50.4,86.6,41.4,59.6,80.4,Dilkash-20
+sandy loam,Punjab North,irrigated,tube well,rabi,Nov,optimal,6.1,21.9,469.1,50.1,95.6,49.5,57.3,84.2,Subhani-21
+loamy,Potohar,rainfed,mixed,rabi,Dec,late,6.5,21.1,542.6,52.0,101.3,49.7,54.2,89.7,Sawera-24
+sandy loam,Canal Area,irrigated,mixed,rabi,Oct,early,6.4,22.5,534.8,50.3,85.1,47.8,41.1,82.2,Arooj-22
+silt loam,Potohar,rainfed,tube well,rabi,Nov,optimal,6.9,21.5,540.8,52.6,88.4,56.9,45.8,81.6,Dilkash-20
+clay loam,Central Punjab,irrigated,tube well,rabi,Dec,late,6.4,23.7,555.1,52.5,94.9,60.0,45.3,83.0,Subhani-21
+silt loam,Central Punjab,rainfed,mixed,rabi,Oct,early,6.9,23.8,486.8,58.8,119.5,52.1,56.7,86.4,Subhani-21
+silt loam,Canal Area,irrigated,canal,rabi,Nov,optimal,6.5,21.3,537.3,52.5,118.3,56.1,55.7,83.8,Dilkash-20
+sandy loam,Potohar,rainfed,canal,rabi,Dec,late,6.2,21.8,612.6,50.9,89.8,57.9,56.6,85.0,Arooj-22
+silt loam,Punjab North,irrigated,tube well,rabi,Oct,early,6.0,22.6,521.2,55.7,82.4,56.5,53.5,80.9,Falak-24
+sandy loam,Canal Area,rainfed,canal,rabi,Nov,optimal,6.9,21.3,514.1,55.3,95.3,57.6,56.5,86.2,Dilkash-20
+loamy,Central Punjab,irrigated,mixed,rabi,Dec,late,6.3,23.5,552.2,52.2,108.7,50.0,42.7,85.5,Sawera-24
+loamy,Central Punjab,rainfed,canal,rabi,Oct,early,6.0,22.4,506.3,56.2,105.8,53.9,48.2,84.4,Dilkash-20
+sandy loam,Canal Area,irrigated,tube well,rabi,Nov,optimal,6.3,23.1,624.1,52.5,111.5,47.1,42.0,89.0,Dilkash-20
+loamy,Potohar,rainfed,mixed,rabi,Dec,late,6.3,23.2,602.9,53.3,83.6,53.7,55.8,89.3,Sawera-24
+clay loam,Central Punjab,irrigated,canal,rabi,Oct,early,6.1,22.2,455.5,51.7,104.7,42.6,48.6,81.8,Falak-24
+silt loam,Potohar,rainfed,rainfed,rabi,Nov,optimal,6.2,23.9,650.0,57.8,111.0,58.0,55.3,82.3,Arooj-22
+clay loam,Central Punjab,irrigated,mixed,rabi,Dec,late,6.3,21.3,608.6,58.7,93.0,46.6,51.1,87.2,Subhani-21
+silt loam,Central Punjab,rainfed,mixed,rabi,Oct,early,6.7,22.1,500.9,57.1,87.5,54.5,58.2,81.4,Falak-24
+loamy,South Punjab,irrigated,rainfed,rabi,Nov,optimal,6.7,21.5,469.4,53.6,108.5,57.6,54.3,82.7,Dilkash-20
+clay loam,Central Punjab,rainfed,rainfed,rabi,Dec,late,6.2,21.8,604.0,54.5,115.1,42.5,40.1,83.8,Subhani-21
+loamy,Punjab North,irrigated,mixed,rabi,Oct,early,6.4,21.5,625.4,56.2,86.5,59.4,41.2,85.6,Falak-24
+silt loam,Canal Area,rainfed,rainfed,rabi,Nov,optimal,6.2,21.8,513.0,59.4,110.3,51.9,44.8,87.2,Dilkash-20
+sandy loam,Canal Area,irrigated,tube well,rabi,Dec,late,6.1,22.7,593.4,53.2,110.2,41.3,59.9,88.4,Sawera-24
+sandy loam,Potohar,rainfed,tube well,rabi,Oct,early,6.2,24.0,566.9,52.4,106.4,54.5,48.1,85.1,Arooj-22
+clay loam,Central Punjab,irrigated,tube well,rabi,Nov,optimal,6.5,21.9,616.1,59.7,119.0,49.4,49.7,87.9,Subhani-21
+loamy,Punjab North,rainfed,mixed,rabi,Dec,late,6.2,23.1,641.8,55.6,117.1,49.9,59.5,82.5,Sawera-24
+loamy,Potohar,irrigated,rainfed,rabi,Oct,early,6.1,22.1,543.9,58.7,107.6,41.0,46.9,83.4,Arooj-22
+clay loam,South Punjab,rainfed,rainfed,rabi,Nov,optimal,6.2,23.9,639.9,50.2,91.9,46.5,54.1,86.8,Subhani-21
+sandy loam,Potohar,irrigated,canal,rabi,Dec,late,6.6,23.3,582.5,58.9,86.6,50.4,51.4,88.0,Sawera-24
+silt loam,Potohar,rainfed,canal,rabi,Oct,early,6.1,21.4,641.5,58.8,114.7,57.2,51.9,82.1,Falak-24
+clay loam,Central Punjab,irrigated,rainfed,rabi,Nov,optimal,6.8,23.8,615.6,58.7,111.1,53.4,44.7,88.6,Subhani-21
+silt loam,South Punjab,rainfed,rainfed,rabi,Dec,late,6.8,21.5,456.8,51.2,93.7,59.1,57.5,87.3,Sawera-24
+sandy loam,Potohar,irrigated,rainfed,rabi,Oct,early,6.2,23.7,617.0,57.5,100.7,52.4,57.2,88.8,Arooj-22
+loamy,Punjab North,rainfed,mixed,rabi,Nov,optimal,6.1,23.7,478.9,59.0,88.7,47.5,57.6,81.3,Subhani-21
+sandy loam,Punjab North,irrigated,rainfed,rabi,Dec,late,6.1,23.9,563.7,59.5,95.8,53.7,57.7,87.6,Arooj-22
+clay loam,Canal Area,rainfed,canal,rabi,Oct,early,6.0,22.3,614.1,56.5,111.6,47.9,53.5,80.3,Dilkash-20
+loamy,South Punjab,irrigated,mixed,rabi,Nov,optimal,6.3,23.9,603.4,56.3,107.3,45.1,51.2,84.5,Sawera-24
+clay loam,South Punjab,rainfed,rainfed,rabi,Dec,late,6.9,22.4,452.1,59.8,89.1,42.9,59.4,89.2,Sawera-24
+clay loam,Canal Area,irrigated,canal,rabi,Oct,early,6.5,22.9,612.7,55.9,83.0,54.2,56.4,85.8,Dilkash-20
+sandy loam,Potohar,rainfed,mixed,rabi,Nov,optimal,6.6,22.2,572.7,52.2,101.2,57.8,51.2,87.2,Arooj-22
+clay loam,South Punjab,irrigated,rainfed,rabi,Dec,late,6.2,22.2,570.3,57.3,112.3,41.1,53.0,81.9,Sawera-24
+sandy loam,Punjab North,rainfed,rainfed,rabi,Oct,early,7.0,21.6,641.6,56.9,86.1,48.4,48.1,88.7,Arooj-22
+loamy,Punjab North,irrigated,rainfed,rabi,Nov,optimal,6.2,22.5,636.2,52.3,101.4,40.3,43.9,89.3,Falak-24
+sandy loam,Central Punjab,rainfed,mixed,rabi,Dec,late,6.3,23.8,604.4,51.3,110.9,41.1,50.1,88.8,Sawera-24
+loamy,South Punjab,irrigated,canal,rabi,Oct,early,6.4,22.7,488.3,52.0,109.3,51.9,56.8,82.6,Sawera-24
+sandy loam,Potohar,rainfed,canal,rabi,Nov,optimal,6.1,23.1,547.5,56.0,109.7,53.9,44.5,88.4,Arooj-22
+silt loam,Canal Area,irrigated,tube well,rabi,Dec,late,6.1,24.0,548.4,54.0,85.8,46.8,54.4,87.2,Dilkash-20
+silt loam,Canal Area,rainfed,rainfed,rabi,Oct,early,6.1,21.2,504.1,56.0,85.4,45.2,43.9,85.2,Arooj-22
+clay loam,Potohar,irrigated,tube well,rabi,Nov,optimal,6.8,22.8,559.3,51.0,110.0,49.9,59.2,80.1,Subhani-21
+sandy loam,Central Punjab,rainfed,tube well,rabi,Dec,late,6.7,22.0,502.5,56.2,108.0,44.5,46.0,84.6,Subhani-21
+sandy loam,Canal Area,irrigated,canal,rabi,Oct,early,6.6,21.4,559.2,51.0,114.6,47.3,42.7,82.7,Dilkash-20
+loamy,South Punjab,rainfed,mixed,rabi,Nov,optimal,6.5,23.9,494.2,52.3,96.0,46.5,52.3,84.2,Sawera-24
+clay loam,Central Punjab,irrigated,mixed,rabi,Dec,late,6.7,22.5,500.4,54.7,90.5,44.7,42.2,89.9,Subhani-21
+sandy loam,South Punjab,rainfed,canal,rabi,Oct,early,6.9,21.7,618.6,59.3,95.8,49.9,53.4,89.4,Sawera-24
+clay loam,Punjab North,irrigated,mixed,rabi,Nov,optimal,6.4,22.1,633.9,53.5,80.7,56.8,40.1,81.8,Subhani-21
+silt loam,Central Punjab,rainfed,tube well,rabi,Dec,late,6.6,22.7,464.3,52.2,112.1,48.2,53.9,86.9,Subhani-21
+sandy loam,Canal Area,irrigated,rainfed,rabi,Oct,early,6.8,21.7,513.3,55.3,114.0,42.1,57.6,80.8,Arooj-22
+sandy loam,Central Punjab,rainfed,canal,rabi,Nov,optimal,6.6,23.7,595.4,51.7,97.6,46.4,47.9,89.1,Subhani-21
+clay loam,Central Punjab,irrigated,rainfed,rabi,Dec,late,6.0,22.5,480.4,59.8,104.6,50.4,55.9,90.0,Subhani-21
+sandy loam,Central Punjab,rainfed,mixed,rabi,Oct,early,6.2,22.8,451.1,50.1,110.5,53.8,51.5,82.5,Arooj-22
+clay loam,Central Punjab,irrigated,rainfed,rabi,Nov,optimal,6.2,21.6,498.6,53.4,85.5,57.3,56.9,86.2,Subhani-21
+sandy loam,South Punjab,rainfed,mixed,rabi,Dec,late,6.5,22.1,504.4,53.0,104.5,49.8,59.4,88.0,Sawera-24
+loamy,Punjab North,irrigated,mixed,rabi,Oct,early,6.2,23.8,527.5,58.8,95.6,57.1,58.1,80.8,Falak-24
+clay loam,Potohar,rainfed,tube well,rabi,Nov,optimal,6.5,23.2,614.5,52.3,116.8,55.4,55.5,84.5,Subhani-21
+sandy loam,Central Punjab,irrigated,mixed,rabi,Dec,late,6.3,21.3,493.7,55.7,93.8,40.1,54.5,89.2,Sawera-24
+silt loam,Canal Area,rainfed,tube well,rabi,Oct,early,6.1,21.3,564.6,58.6,107.9,58.0,58.7,88.8,Falak-24
+sandy loam,Central Punjab,irrigated,tube well,rabi,Nov,optimal,6.4,24.0,593.4,54.5,118.0,46.1,51.8,84.0,Subhani-21
+silt loam,Canal Area,rainfed,tube well,rabi,Dec,late,6.6,21.8,601.0,54.7,95.7,50.6,44.9,83.8,Dilkash-20
+silt loam,South Punjab,irrigated,canal,rabi,Oct,early,6.5,23.9,576.2,53.9,101.0,52.5,53.6,90.0,Falak-24
+loamy,Canal Area,rainfed,canal,rabi,Nov,optimal,6.3,21.4,633.0,55.0,108.5,48.9,53.7,84.8,Dilkash-20
+clay loam,Potohar,irrigated,mixed,rabi,Dec,late,6.0,22.8,512.1,57.8,107.5,52.5,48.7,85.2,Sawera-24
+sandy loam,Punjab North,rainfed,tube well,rabi,Oct,early,6.6,22.4,485.8,56.2,95.6,45.0,47.1,89.3,Falak-24
+loamy,Canal Area,irrigated,canal,rabi,Nov,optimal,6.6,23.9,642.5,58.9,111.8,40.6,44.6,82.8,Dilkash-20
+sandy loam,Canal Area,rainfed,tube well,rabi,Dec,late,6.5,21.1,517.8,53.3,88.8,47.3,43.7,82.3,Sawera-24
+silt loam,Punjab North,irrigated,rainfed,rabi,Oct,early,6.9,21.3,565.8,59.4,91.3,46.1,59.7,82.6,Falak-24
+clay loam,Potohar,rainfed,rainfed,rabi,Nov,optimal,6.7,22.6,489.0,59.6,118.8,56.4,40.0,82.1,Subhani-21
+sandy loam,Central Punjab,irrigated,rainfed,rabi,Dec,late,6.1,21.9,450.3,58.0,92.6,57.0,44.9,82.4,Arooj-22
+sandy loam,Canal Area,rainfed,mixed,rabi,Oct,early,6.6,21.7,561.7,50.8,81.0,41.6,45.0,87.2,Arooj-22
+silt loam,Punjab North,irrigated,tube well,rabi,Nov,optimal,6.9,22.8,587.4,55.0,115.3,55.5,58.6,82.6,Subhani-21
+sandy loam,South Punjab,rainfed,rainfed,rabi,Dec,late,6.1,21.4,480.4,50.4,110.7,48.4,55.0,84.8,Sawera-24
+sandy loam,Punjab North,irrigated,canal,rabi,Oct,early,6.9,22.1,486.1,51.4,98.5,43.9,57.6,84.2,Falak-24
+silt loam,South Punjab,rainfed,rainfed,rabi,Nov,optimal,6.6,21.8,509.8,57.0,112.5,44.1,58.6,87.1,Dilkash-20
+loamy,Potohar,irrigated,rainfed,rabi,Dec,late,7.0,23.3,520.2,58.8,96.6,45.2,49.0,81.7,Sawera-24
+silt loam,Central Punjab,rainfed,rainfed,rabi,Oct,early,6.5,23.6,528.8,57.8,82.0,48.3,53.6,87.1,Subhani-21
+loamy,Punjab North,irrigated,mixed,rabi,Nov,optimal,6.4,22.9,537.2,53.7,116.7,55.4,45.0,85.2,Subhani-21
+clay loam,Canal Area,rainfed,canal,rabi,Dec,late,6.1,22.1,494.7,55.5,83.9,40.5,55.9,81.4,Sawera-24
+loamy,Potohar,irrigated,tube well,rabi,Oct,early,6.4,22.4,462.5,53.5,111.1,51.6,56.7,83.0,Arooj-22
+loamy,Punjab North,rainfed,canal,rabi,Nov,optimal,6.1,23.1,519.8,53.9,98.9,43.2,59.1,82.2,Subhani-21
+clay loam,Canal Area,irrigated,tube well,rabi,Dec,late,6.1,21.1,649.9,52.9,107.1,57.9,56.6,81.5,Sawera-24
+loamy,Punjab North,rainfed,mixed,rabi,Oct,early,6.3,23.4,501.9,56.5,105.9,45.7,53.1,86.0,Falak-24
+silt loam,South Punjab,irrigated,mixed,rabi,Nov,optimal,6.9,24.0,621.6,50.9,81.2,41.6,41.1,88.8,Sawera-24
+loamy,Punjab North,rainfed,mixed,rabi,Dec,late,6.1,23.1,610.7,57.3,108.1,46.7,46.1,81.8,Sawera-24
+clay loam,Punjab North,irrigated,mixed,rabi,Oct,early,6.7,23.5,459.1,58.7,118.0,48.5,57.1,80.4,Subhani-21
+silt loam,Punjab North,rainfed,tube well,rabi,Nov,optimal,6.3,22.1,562.0,50.5,90.1,56.8,46.3,85.9,Falak-24
+clay loam,Potohar,irrigated,rainfed,rabi,Dec,late,6.6,22.9,555.5,51.9,89.8,52.3,46.5,81.5,Sawera-24
+clay loam,Punjab North,rainfed,tube well,rabi,Oct,early,7.0,22.3,634.9,57.2,105.8,48.1,50.7,83.3,Subhani-21
+sandy loam,Canal Area,irrigated,canal,rabi,Nov,optimal,6.3,21.7,579.6,52.8,111.0,43.1,57.1,86.4,Dilkash-20
+sandy loam,South Punjab,rainfed,mixed,rabi,Dec,late,6.1,21.9,517.1,54.8,96.8,44.5,54.2,87.3,Sawera-24
+clay loam,South Punjab,irrigated,mixed,rabi,Oct,early,6.7,21.1,586.4,56.6,90.0,46.0,54.1,88.9,Sawera-24
+clay loam,Punjab North,rainfed,canal,rabi,Nov,optimal,6.4,23.8,647.8,57.7,105.5,49.0,52.2,84.4,Subhani-21
+clay loam,Potohar,irrigated,tube well,rabi,Dec,late,6.4,22.9,642.3,58.0,109.3,45.0,49.4,88.5,Sawera-24
+sandy loam,Potohar,rainfed,rainfed,rabi,Oct,early,6.4,21.0,476.3,51.1,91.8,50.2,56.1,80.7,Arooj-22
+sandy loam,Canal Area,irrigated,rainfed,rabi,Nov,optimal,7.0,23.1,632.6,59.9,107.6,52.8,43.5,86.9,Dilkash-20
+loamy,Punjab North,rainfed,canal,rabi,Dec,late,6.4,22.3,548.0,54.1,94.8,41.4,45.0,87.3,Falak-24
+loamy,South Punjab,irrigated,rainfed,rabi,Oct,early,6.3,22.0,525.8,55.2,113.0,57.8,52.6,85.9,Arooj-22
+clay loam,Potohar,rainfed,tube well,rabi,Nov,optimal,6.6,22.5,627.2,51.5,82.4,54.2,48.4,85.7,Subhani-21
+silt loam,Punjab North,irrigated,tube well,rabi,Dec,late,6.5,23.2,506.9,51.0,85.4,42.0,57.8,86.5,Falak-24
+silt loam,Potohar,rainfed,canal,rabi,Oct,early,6.9,23.3,489.6,59.2,117.0,48.0,49.0,83.4,Falak-24
+sandy loam,Potohar,irrigated,tube well,rabi,Nov,optimal,6.1,21.1,612.7,51.9,94.6,55.9,59.8,88.7,Arooj-22
+sandy loam,South Punjab,rainfed,mixed,rabi,Dec,late,6.3,21.4,607.6,52.8,100.4,56.6,55.7,89.1,Sawera-24
+sandy loam,Central Punjab,irrigated,canal,rabi,Oct,early,6.1,21.5,599.9,54.6,89.1,41.3,56.9,87.5,Falak-24
+clay loam,Canal Area,rainfed,tube well,rabi,Nov,optimal,6.5,21.4,573.8,57.7,93.8,45.8,45.0,82.1,Dilkash-20
+silt loam,Canal Area,irrigated,canal,rabi,Dec,late,6.1,23.2,453.5,53.6,118.3,53.2,44.6,82.8,Sawera-24
+loamy,South Punjab,rainfed,rainfed,rabi,Oct,early,6.4,22.0,483.9,55.4,87.0,41.4,49.0,82.8,Arooj-22
+clay loam,Potohar,irrigated,tube well,rabi,Nov,optimal,6.1,23.3,565.6,54.6,105.2,48.9,57.3,85.5,Subhani-21
+loamy,Punjab North,rainfed,mixed,rabi,Dec,late,6.7,21.8,598.8,53.0,108.8,58.1,42.9,83.9,Sawera-24
+loamy,Potohar,irrigated,tube well,rabi,Oct,early,6.4,23.2,613.8,58.2,87.6,44.2,55.2,81.1,Falak-24
+clay loam,South Punjab,rainfed,canal,rabi,Nov,optimal,6.3,23.0,638.5,51.2,116.6,57.5,50.3,84.2,Sawera-24
+loamy,Canal Area,irrigated,canal,rabi,Dec,late,6.5,21.5,495.0,53.2,115.9,47.2,54.8,86.1,Sawera-24
+silt loam,Potohar,rainfed,tube well,rabi,Oct,early,6.1,22.0,518.7,56.9,104.5,57.9,41.8,88.0,Falak-24
+loamy,Canal Area,irrigated,mixed,rabi,Nov,optimal,6.6,21.0,556.2,58.0,84.2,57.2,49.3,88.8,Dilkash-20
+silt loam,Punjab North,rainfed,mixed,rabi,Dec,late,7.0,21.7,452.8,57.4,99.2,41.6,41.0,88.6,Falak-24
+silt loam,Canal Area,irrigated,mixed,rabi,Oct,early,6.7,21.1,506.4,58.3,111.4,50.5,44.9,89.3,Dilkash-20
+silt loam,Canal Area,rainfed,canal,rabi,Nov,optimal,6.2,23.0,567.0,51.9,81.8,42.9,49.2,81.2,Dilkash-20
+sandy loam,Central Punjab,irrigated,tube well,rabi,Dec,late,6.1,22.2,481.4,59.1,95.2,45.4,45.6,83.6,Subhani-21
+loamy,Central Punjab,rainfed,rainfed,rabi,Oct,early,6.3,23.6,460.9,52.4,111.7,45.6,48.0,86.2,Subhani-21
+clay loam,Central Punjab,irrigated,canal,rabi,Nov,optimal,6.7,22.7,593.9,55.0,106.1,46.3,40.9,81.6,Subhani-21
+clay loam,Canal Area,rainfed,mixed,rabi,Dec,late,6.0,22.2,593.7,50.9,92.8,50.9,44.1,85.7,Sawera-24
+loamy,South Punjab,irrigated,tube well,rabi,Oct,early,6.3,23.8,560.8,50.4,103.5,51.8,59.6,85.5,Sawera-24
+sandy loam,Canal Area,rainfed,mixed,rabi,Nov,optimal,6.9,23.1,476.7,55.1,86.2,42.0,43.7,88.7,Dilkash-20
+sandy loam,South Punjab,irrigated,rainfed,rabi,Dec,late,6.2,21.6,495.2,56.7,82.2,42.8,49.4,85.0,Sawera-24
+silt loam,South Punjab,rainfed,mixed,rabi,Oct,early,6.0,21.7,489.5,50.4,120.0,58.5,52.4,82.1,Falak-24
+loamy,Central Punjab,irrigated,mixed,rabi,Nov,optimal,6.3,23.8,479.1,58.1,91.3,44.5,43.4,86.0,Subhani-21
+loamy,Potohar,rainfed,rainfed,rabi,Dec,late,6.8,22.3,581.7,54.9,87.4,52.3,59.5,88.7,Sawera-24
+clay loam,Punjab North,irrigated,tube well,rabi,Oct,early,6.0,21.4,498.3,53.5,113.9,43.0,49.9,85.9,Falak-24
+loamy,Central Punjab,rainfed,canal,rabi,Nov,optimal,6.8,23.1,501.0,51.4,106.1,42.7,59.5,86.1,Subhani-21
+sandy loam,Central Punjab,irrigated,tube well,rabi,Dec,late,6.2,23.7,491.1,59.6,115.2,53.8,57.6,82.7,Subhani-21
+loamy,Potohar,rainfed,rainfed,rabi,Oct,early,6.5,23.9,509.1,53.7,115.3,42.9,46.9,85.9,Arooj-22
+clay loam,Punjab North,irrigated,mixed,rabi,Nov,optimal,6.9,24.0,466.2,58.3,90.1,59.9,45.1,86.4,Subhani-21
+silt loam,Canal Area,rainfed,tube well,rabi,Dec,late,7.0,23.5,637.4,51.9,118.6,42.0,58.4,88.0,Sawera-24
+clay loam,Canal Area,irrigated,canal,rabi,Oct,early,6.1,21.1,599.0,57.1,107.9,52.1,59.0,88.8,Falak-24
+clay loam,Central Punjab,rainfed,rainfed,rabi,Nov,optimal,6.1,21.3,522.8,58.0,100.3,41.2,59.1,83.0,Subhani-21
+silt loam,Punjab North,irrigated,tube well,rabi,Dec,late,6.8,22.9,465.9,59.2,92.1,59.6,45.9,87.0,Subhani-21
+clay loam,Central Punjab,rainfed,canal,rabi,Oct,early,6.7,21.6,646.3,59.0,93.4,42.6,42.6,88.5,Subhani-21
+clay loam,South Punjab,irrigated,rainfed,rabi,Nov,optimal,6.3,23.8,648.1,54.9,115.7,56.9,42.0,80.3,Subhani-21
+loamy,Central Punjab,rainfed,canal,rabi,Dec,late,6.9,23.1,617.8,56.4,103.9,47.0,52.2,83.1,Sawera-24
+loamy,Central Punjab,irrigated,rainfed,rabi,Oct,early,6.3,21.8,548.4,57.7,111.1,43.4,47.0,87.0,Arooj-22
+silt loam,Canal Area,rainfed,mixed,rabi,Nov,optimal,6.1,22.0,607.1,52.6,91.4,42.3,45.6,83.6,Dilkash-20
+loamy,Canal Area,irrigated,tube well,rabi,Dec,late,7.0,23.7,547.2,53.3,117.3,41.6,48.7,85.5,Sawera-24
+loamy,Canal Area,rainfed,canal,rabi,Oct,early,6.8,23.7,536.9,59.2,94.8,46.4,55.4,83.9,Dilkash-20
+clay loam,South Punjab,irrigated,rainfed,rabi,Nov,optimal,6.1,21.8,648.7,55.7,89.1,46.2,41.6,85.2,Subhani-21
+sandy loam,Canal Area,rainfed,canal,rabi,Dec,late,7.0,23.6,551.0,52.1,118.6,57.7,55.6,89.2,Sawera-24
+loamy,Punjab North,irrigated,canal,rabi,Oct,early,6.6,23.7,608.8,55.1,98.7,55.9,57.6,80.8,Falak-24
+sandy loam,Potohar,rainfed,tube well,rabi,Nov,optimal,6.4,23.1,518.8,56.6,108.1,56.3,46.0,85.2,Arooj-22
+loamy,Punjab North,irrigated,mixed,rabi,Dec,late,6.0,23.2,512.8,55.8,83.6,47.4,43.0,84.6,Sawera-24
+loamy,Punjab North,rainfed,canal,rabi,Oct,early,6.9,21.0,467.0,52.8,87.6,43.1,40.9,88.5,Falak-24
+silt loam,Canal Area,irrigated,rainfed,rabi,Nov,optimal,6.6,21.1,649.5,54.8,100.2,50.3,59.5,86.5,Dilkash-20
+silt loam,Potohar,rainfed,rainfed,rabi,Dec,late,6.1,22.2,584.5,51.7,96.0,54.5,43.0,80.9,Arooj-22
+silt loam,Potohar,irrigated,mixed,rabi,Oct,early,6.1,23.6,624.6,59.8,81.0,49.2,42.1,88.5,Arooj-22
+sandy loam,Potohar,rainfed,rainfed,rabi,Nov,optimal,6.0,23.1,647.8,52.8,108.6,58.3,51.2,88.7,Arooj-22
+clay loam,South Punjab,irrigated,mixed,rabi,Dec,late,6.9,22.7,647.2,58.0,90.5,57.4,41.9,86.7,Sawera-24
+loamy,Canal Area,rainfed,rainfed,rabi,Oct,early,7.0,23.0,574.7,59.1,106.9,43.0,58.7,83.3,Dilkash-20
+loamy,Potohar,irrigated,tube well,rabi,Nov,optimal,6.8,22.5,499.2,53.0,89.8,54.8,52.7,87.4,Subhani-21
+loamy,South Punjab,rainfed,canal,rabi,Dec,late,6.1,23.3,498.7,53.7,114.6,43.6,54.6,85.9,Sawera-24
+sandy loam,Central Punjab,irrigated,tube well,rabi,Oct,early,6.1,22.9,569.0,55.2,81.5,55.2,55.7,85.5,Subhani-21
+silt loam,Central Punjab,rainfed,canal,rabi,Nov,optimal,6.2,22.6,583.8,55.3,114.2,43.3,40.6,87.8,Dilkash-20
+clay loam,South Punjab,irrigated,canal,rabi,Dec,late,6.6,23.2,480.8,58.3,94.2,43.9,56.9,89.6,Sawera-24
+sandy loam,South Punjab,rainfed,canal,rabi,Oct,early,6.8,21.5,636.2,57.4,99.2,49.4,48.8,83.7,Sawera-24
+silt loam,Canal Area,irrigated,tube well,rabi,Nov,optimal,7.0,22.5,608.4,58.9,94.3,58.8,51.7,83.9,Dilkash-20
+sandy loam,Canal Area,rainfed,canal,rabi,Dec,late,6.4,21.2,513.7,53.5,115.9,41.1,59.1,82.1,Sawera-24
+clay loam,Central Punjab,irrigated,tube well,rabi,Oct,early,6.2,22.9,557.4,55.5,87.5,58.5,49.7,85.8,Subhani-21
+silt loam,Potohar,rainfed,mixed,rabi,Nov,optimal,6.2,22.9,534.8,59.9,80.8,50.9,50.0,85.7,Arooj-22
+sandy loam,Central Punjab,irrigated,rainfed,rabi,Dec,late,6.1,22.5,519.6,59.5,116.9,52.3,58.9,89.9,Arooj-22
+clay loam,Potohar,rainfed,rainfed,rabi,Oct,early,6.9,21.5,624.7,51.8,118.6,54.4,44.0,87.7,Arooj-22
+loamy,Potohar,irrigated,canal,rabi,Nov,optimal,7.0,22.3,610.6,51.7,94.8,55.9,49.5,83.2,Dilkash-20
+clay loam,Canal Area,rainfed,tube well,rabi,Dec,late,6.9,21.2,455.6,53.8,84.1,49.8,42.0,88.3,Sawera-24
+loamy,Punjab North,irrigated,rainfed,rabi,Oct,early,6.3,23.4,545.5,56.3,119.6,58.8,43.6,87.6,Falak-24
+sandy loam,Punjab North,rainfed,tube well,rabi,Nov,optimal,6.6,23.2,454.7,52.0,114.0,57.0,49.4,82.3,Subhani-21
+silt loam,South Punjab,irrigated,tube well,rabi,Dec,late,6.9,22.6,584.9,59.0,93.4,52.8,47.5,83.6,Sawera-24
+silt loam,Canal Area,rainfed,canal,rabi,Oct,early,6.5,22.3,632.4,50.7,92.8,56.5,41.3,81.7,Dilkash-20
+sandy loam,Potohar,irrigated,rainfed,rabi,Nov,optimal,6.1,23.7,646.5,59.9,93.6,42.7,52.3,86.8,Arooj-22
+silt loam,Punjab North,rainfed,canal,rabi,Dec,late,6.3,21.1,608.1,58.4,84.2,51.1,59.9,85.6,Falak-24
+silt loam,Potohar,irrigated,canal,rabi,Oct,early,7.0,22.2,619.7,59.7,84.6,51.2,59.7,86.0,Falak-24
+loamy,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.7,22.6,473.3,55.2,98.9,49.8,57.1,87.0,Subhani-21
+sandy loam,Punjab North,irrigated,rainfed,rabi,Dec,late,7.0,22.2,454.2,56.8,108.6,40.9,48.3,83.7,Arooj-22
+clay loam,Punjab North,rainfed,mixed,rabi,Oct,early,6.2,21.7,491.4,57.3,82.7,41.8,52.5,84.2,Falak-24
+loamy,Canal Area,irrigated,mixed,rabi,Nov,optimal,6.9,23.2,643.6,54.1,87.8,53.8,53.6,88.9,Dilkash-20
+sandy loam,Central Punjab,rainfed,tube well,rabi,Dec,late,6.9,22.7,593.4,55.7,105.8,59.2,43.9,86.4,Subhani-21
+loamy,Potohar,irrigated,rainfed,rabi,Oct,early,6.7,21.7,536.2,54.7,87.6,56.0,51.0,84.6,Arooj-22
+clay loam,Canal Area,rainfed,mixed,rabi,Nov,optimal,6.2,23.7,452.2,59.9,83.6,48.2,48.1,88.5,Subhani-21
+clay loam,Canal Area,irrigated,tube well,rabi,Dec,late,7.0,22.2,615.5,51.1,104.0,45.9,43.2,88.2,Subhani-21
+sandy loam,Canal Area,rainfed,tube well,rabi,Oct,early,6.5,23.6,570.4,58.7,105.7,54.7,47.3,88.5,Dilkash-20
+clay loam,Canal Area,irrigated,tube well,rabi,Nov,optimal,6.2,21.6,482.8,51.6,105.1,56.8,52.9,88.9,Dilkash-20
+loamy,Canal Area,rainfed,mixed,rabi,Dec,late,6.2,23.3,496.7,57.1,100.7,47.0,51.1,85.7,Sawera-24
+clay loam,South Punjab,irrigated,rainfed,rabi,Oct,early,6.6,22.5,485.1,53.5,101.9,53.4,44.0,84.6,Sawera-24
+loamy,Potohar,rainfed,canal,rabi,Nov,optimal,6.9,21.2,467.9,54.7,106.7,56.3,50.7,85.4,Dilkash-20
+loamy,Canal Area,irrigated,tube well,rabi,Dec,late,6.7,22.8,470.9,51.6,80.9,44.8,53.9,87.8,Sawera-24
+clay loam,Potohar,rainfed,mixed,rabi,Oct,early,6.9,23.2,634.6,54.9,101.3,45.3,59.5,88.7,Arooj-22
+sandy loam,South Punjab,irrigated,mixed,rabi,Nov,optimal,6.9,21.5,467.5,51.5,89.0,40.1,44.4,81.5,Sawera-24
+silt loam,South Punjab,rainfed,canal,rabi,Dec,late,6.7,23.0,606.6,57.7,104.7,42.7,47.9,83.1,Sawera-24
+clay loam,Potohar,irrigated,canal,rabi,Oct,early,6.8,23.6,497.4,58.9,90.9,52.8,44.2,88.2,Falak-24
+loamy,Punjab North,rainfed,mixed,rabi,Nov,optimal,6.4,21.5,571.9,53.4,96.8,55.3,57.2,82.6,Subhani-21
+loamy,Central Punjab,irrigated,rainfed,rabi,Dec,late,6.9,21.5,516.2,56.6,91.8,45.2,50.6,87.7,Sawera-24
+clay loam,Punjab North,rainfed,canal,rabi,Oct,early,6.1,24.0,578.9,58.6,81.8,52.9,46.8,84.2,Falak-24
+sandy loam,Punjab North,irrigated,mixed,rabi,Nov,optimal,6.5,23.4,465.4,57.4,80.9,50.2,40.6,83.5,Subhani-21
+sandy loam,Punjab North,rainfed,canal,rabi,Dec,late,7.0,21.5,520.8,58.7,107.9,55.5,40.2,84.8,Falak-24
+loamy,Canal Area,irrigated,rainfed,rabi,Oct,early,7.0,21.7,622.2,50.8,84.8,43.8,57.4,84.8,Arooj-22
+loamy,South Punjab,rainfed,tube well,rabi,Nov,optimal,6.1,23.4,553.6,51.6,114.2,42.3,49.5,86.4,Sawera-24
+sandy loam,Punjab North,irrigated,canal,rabi,Dec,late,6.9,22.6,573.7,52.0,99.2,44.0,54.2,81.4,Sawera-24
+silt loam,South Punjab,rainfed,rainfed,rabi,Oct,early,6.9,22.7,492.7,57.9,105.4,54.1,44.3,80.7,Falak-24
+clay loam,Potohar,irrigated,mixed,rabi,Nov,optimal,6.1,22.1,462.6,53.8,111.0,43.0,53.9,80.6,Arooj-22
+loamy,Central Punjab,rainfed,canal,rabi,Dec,late,6.6,21.2,615.5,54.3,97.1,40.2,50.8,85.9,Sawera-24
+loamy,Potohar,irrigated,canal,rabi,Oct,early,6.5,23.1,648.6,57.5,87.8,53.1,42.0,83.8,Falak-24
+sandy loam,Potohar,rainfed,mixed,rabi,Nov,optimal,6.1,22.5,504.2,50.1,109.2,58.6,55.5,81.9,Arooj-22
+clay loam,Canal Area,irrigated,tube well,rabi,Dec,late,6.9,21.9,559.4,52.7,89.8,46.4,53.7,88.6,Sawera-24
+sandy loam,Central Punjab,rainfed,mixed,rabi,Oct,early,6.2,21.4,642.8,59.8,87.7,58.3,50.6,85.1,Arooj-22
+clay loam,Potohar,irrigated,canal,rabi,Nov,optimal,6.3,23.7,496.3,51.3,114.9,54.6,50.1,84.6,Subhani-21
+clay loam,Potohar,rainfed,mixed,rabi,Dec,late,6.6,21.8,482.5,50.6,103.2,53.3,58.0,88.4,Sawera-24
+clay loam,Central Punjab,irrigated,rainfed,rabi,Oct,early,6.0,23.0,632.5,51.6,104.1,45.4,56.3,81.6,Subhani-21
+loamy,Central Punjab,rainfed,mixed,rabi,Nov,optimal,6.6,22.0,641.3,50.3,96.8,52.1,56.2,87.3,Dilkash-20
+silt loam,Potohar,irrigated,canal,rabi,Dec,late,6.2,22.9,498.9,58.2,96.3,49.1,55.2,83.5,Falak-24
+sandy loam,Central Punjab,rainfed,mixed,rabi,Oct,early,6.7,22.3,522.8,54.0,103.1,49.3,50.6,89.3,Arooj-22
+silt loam,Potohar,irrigated,tube well,rabi,Nov,optimal,6.5,23.4,541.7,54.0,112.0,52.7,51.4,82.2,Subhani-21
+sandy loam,Potohar,rainfed,mixed,rabi,Dec,late,6.8,22.2,540.0,58.1,106.6,55.4,59.2,88.0,Arooj-22
+clay loam,Canal Area,irrigated,tube well,rabi,Oct,early,6.5,22.5,575.9,54.3,116.4,52.2,47.0,80.3,Dilkash-20
+loamy,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.1,21.6,492.1,56.9,97.3,44.1,55.8,84.5,Falak-24
+silt loam,Potohar,irrigated,tube well,rabi,Dec,late,6.6,21.3,483.6,50.1,114.5,45.2,59.4,90.0,Falak-24
+loamy,South Punjab,rainfed,mixed,rabi,Oct,early,6.9,21.5,554.2,54.4,106.8,41.2,53.7,89.0,Sawera-24
+sandy loam,Punjab North,irrigated,canal,rabi,Nov,optimal,6.6,21.8,647.9,55.7,117.4,47.3,45.2,80.4,Subhani-21
+loamy,Punjab North,rainfed,tube well,rabi,Dec,late,6.7,21.4,587.6,58.2,116.0,40.9,50.4,81.1,Sawera-24
+loamy,Punjab North,irrigated,rainfed,rabi,Oct,early,6.6,23.7,593.1,52.1,93.8,53.5,54.0,87.8,Falak-24
+silt loam,Canal Area,rainfed,tube well,rabi,Nov,optimal,6.3,22.0,616.7,55.2,107.2,49.7,55.0,87.7,Dilkash-20
+clay loam,Potohar,irrigated,tube well,rabi,Dec,late,6.6,21.8,563.6,59.9,93.5,48.9,48.3,82.5,Sawera-24
+loamy,Canal Area,rainfed,tube well,rabi,Oct,early,6.2,23.2,485.6,58.2,119.5,53.5,47.1,86.1,Dilkash-20
+clay loam,Potohar,irrigated,rainfed,rabi,Nov,optimal,6.9,22.6,634.4,50.6,118.9,49.3,55.7,84.9,Subhani-21
+sandy loam,Canal Area,rainfed,mixed,rabi,Dec,late,7.0,22.9,521.0,54.2,87.7,59.1,51.8,83.0,Sawera-24
+loamy,Canal Area,irrigated,tube well,rabi,Oct,early,6.7,21.7,468.9,55.0,118.5,40.9,60.0,87.6,Dilkash-20
+silt loam,South Punjab,rainfed,tube well,rabi,Nov,optimal,6.5,23.7,500.3,54.4,92.5,58.4,45.6,80.8,Dilkash-20
+sandy loam,Canal Area,irrigated,canal,rabi,Dec,late,6.8,22.3,593.2,52.5,117.8,58.2,51.0,80.4,Sawera-24
+sandy loam,Central Punjab,rainfed,rainfed,rabi,Oct,early,6.1,22.9,518.3,52.5,107.2,54.5,52.0,83.9,Arooj-22
+silt loam,South Punjab,irrigated,tube well,rabi,Nov,optimal,6.3,22.7,608.2,53.3,89.6,54.4,41.1,87.0,Dilkash-20
+loamy,Canal Area,rainfed,rainfed,rabi,Dec,late,6.0,22.5,645.1,59.7,103.6,41.9,41.3,85.3,Sawera-24
+loamy,Punjab North,irrigated,tube well,rabi,Oct,early,6.1,22.6,589.9,54.3,109.3,50.2,43.3,89.0,Falak-24
+sandy loam,Central Punjab,rainfed,mixed,rabi,Nov,optimal,6.5,23.5,495.1,58.9,104.5,42.5,42.3,88.7,Subhani-21
+loamy,Central Punjab,irrigated,mixed,rabi,Dec,late,6.4,23.4,622.9,59.4,119.5,40.2,51.3,89.1,Sawera-24
+clay loam,Central Punjab,rainfed,tube well,rabi,Oct,early,6.3,24.0,619.4,56.1,88.7,54.6,55.8,88.8,Subhani-21
+silt loam,South Punjab,irrigated,mixed,rabi,Nov,optimal,6.9,23.7,523.8,59.2,101.8,55.4,45.6,89.8,Sawera-24
+clay loam,Canal Area,rainfed,tube well,rabi,Dec,late,6.1,22.7,496.0,52.2,107.6,48.5,41.2,89.4,Sawera-24
+loamy,Canal Area,irrigated,mixed,rabi,Oct,early,6.3,21.6,489.7,58.1,88.4,57.3,55.8,83.1,Dilkash-20
+sandy loam,Punjab North,rainfed,canal,rabi,Nov,optimal,6.7,23.6,533.6,59.0,92.9,53.1,56.6,87.3,Subhani-21
+silt loam,Punjab North,irrigated,canal,rabi,Dec,late,6.7,21.7,594.6,59.5,111.9,57.0,40.1,80.2,Falak-24
+loamy,Central Punjab,rainfed,canal,rabi,Oct,early,6.3,22.7,509.8,56.4,81.8,57.1,51.4,88.9,Dilkash-20
+loamy,Punjab North,irrigated,rainfed,rabi,Nov,optimal,6.7,22.6,632.5,58.4,116.4,43.0,50.8,87.4,Subhani-21
+sandy loam,South Punjab,rainfed,rainfed,rabi,Dec,late,6.3,21.4,637.3,56.5,93.0,43.2,55.6,81.8,Sawera-24
+sandy loam,Canal Area,irrigated,canal,rabi,Oct,early,6.7,22.5,457.4,52.0,109.5,59.6,42.2,86.3,Dilkash-20
+clay loam,Central Punjab,rainfed,rainfed,rabi,Nov,optimal,6.8,21.9,594.5,56.4,102.6,43.8,48.1,89.0,Subhani-21
+silt loam,Punjab North,irrigated,mixed,rabi,Dec,late,6.1,22.1,554.1,53.0,94.9,48.4,49.6,88.4,Falak-24
+silt loam,South Punjab,rainfed,tube well,rabi,Oct,early,6.3,21.2,462.6,54.9,86.0,59.6,40.0,84.0,Falak-24
+sandy loam,South Punjab,irrigated,tube well,rabi,Nov,optimal,6.7,21.5,605.9,54.3,119.5,48.1,47.8,81.5,Sawera-24
+clay loam,Punjab North,rainfed,tube well,rabi,Dec,late,6.5,23.9,533.0,53.3,106.9,59.6,50.9,87.5,Subhani-21
+silt loam,Canal Area,irrigated,canal,rabi,Oct,early,6.7,21.5,460.7,57.1,84.1,58.2,59.7,84.4,Dilkash-20
+sandy loam,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.6,21.2,624.8,56.0,99.1,47.0,52.3,81.7,Arooj-22
+loamy,Central Punjab,irrigated,mixed,rabi,Dec,late,6.7,21.2,614.4,59.3,92.8,55.3,42.8,89.5,Sawera-24
+silt loam,Punjab North,rainfed,mixed,rabi,Oct,early,6.7,21.0,476.7,50.7,88.0,49.0,47.8,84.4,Falak-24
+clay loam,South Punjab,irrigated,canal,rabi,Nov,optimal,6.9,21.9,465.0,54.4,98.9,54.7,42.4,85.2,Subhani-21
+clay loam,Punjab North,rainfed,mixed,rabi,Dec,late,6.3,21.0,610.9,57.3,103.3,48.3,44.9,82.4,Subhani-21
+clay loam,Canal Area,irrigated,mixed,rabi,Oct,early,6.9,24.0,628.4,55.7,91.3,59.6,53.2,87.8,Subhani-21
+loamy,Potohar,rainfed,mixed,rabi,Nov,optimal,6.9,22.6,503.5,51.3,86.5,48.5,56.5,85.9,Dilkash-20
+silt loam,Punjab North,irrigated,mixed,rabi,Dec,late,6.4,23.3,493.3,52.9,114.2,43.3,43.0,82.5,Falak-24
+silt loam,Canal Area,rainfed,rainfed,rabi,Oct,early,6.2,21.5,466.7,51.1,103.8,47.7,53.4,82.5,Arooj-22
+loamy,Canal Area,irrigated,mixed,rabi,Nov,optimal,6.1,21.0,534.3,51.4,114.6,47.9,40.9,82.9,Dilkash-20
+silt loam,South Punjab,rainfed,tube well,rabi,Dec,late,6.5,22.8,477.2,56.7,102.5,48.8,50.7,88.7,Sawera-24
+loamy,Canal Area,irrigated,canal,rabi,Oct,early,6.3,23.7,606.8,55.0,114.7,49.8,40.0,82.9,Dilkash-20
+loamy,Canal Area,rainfed,rainfed,rabi,Nov,optimal,6.5,21.9,520.3,54.5,105.6,46.4,41.6,86.1,Dilkash-20
+loamy,Canal Area,irrigated,mixed,rabi,Dec,late,7.0,21.6,602.2,53.4,103.0,40.2,49.3,82.9,Sawera-24
+clay loam,Canal Area,rainfed,rainfed,rabi,Oct,early,6.7,23.9,565.5,50.5,91.1,44.6,49.0,86.5,Subhani-21
+silt loam,Central Punjab,irrigated,mixed,rabi,Nov,optimal,6.4,23.9,626.8,57.7,81.9,50.4,40.9,85.5,Subhani-21
+loamy,Central Punjab,rainfed,tube well,rabi,Dec,late,6.9,23.2,577.4,56.7,92.7,53.0,57.8,88.8,Sawera-24
+silt loam,South Punjab,irrigated,canal,rabi,Oct,early,6.0,21.5,461.9,52.6,90.3,42.4,41.8,84.7,Falak-24
+clay loam,Punjab North,rainfed,mixed,rabi,Nov,optimal,6.7,21.8,590.3,52.3,98.7,47.2,53.2,87.8,Subhani-21
+loamy,Canal Area,irrigated,mixed,rabi,Dec,late,7.0,23.4,573.3,53.0,103.6,54.3,56.1,84.3,Sawera-24
+sandy loam,Punjab North,rainfed,mixed,rabi,Oct,early,7.0,22.9,510.6,53.5,83.0,56.6,47.3,84.0,Falak-24
+clay loam,Punjab North,irrigated,mixed,rabi,Nov,optimal,6.4,21.4,530.5,55.7,104.4,50.0,49.8,83.1,Subhani-21
+sandy loam,South Punjab,rainfed,canal,rabi,Dec,late,6.3,23.9,504.0,50.8,102.7,58.6,40.4,83.3,Sawera-24
+silt loam,Canal Area,irrigated,canal,rabi,Oct,early,6.4,21.7,609.6,51.4,115.5,50.6,52.4,80.4,Falak-24
+silt loam,Canal Area,rainfed,tube well,rabi,Nov,optimal,6.1,21.7,570.8,52.9,105.5,42.2,41.5,86.7,Dilkash-20
+clay loam,Potohar,irrigated,canal,rabi,Dec,late,6.7,21.9,473.1,52.5,89.4,49.4,56.1,86.9,Sawera-24
+silt loam,Punjab North,rainfed,mixed,rabi,Oct,early,6.7,22.0,529.1,51.3,105.2,47.1,43.4,85.8,Falak-24
+sandy loam,Punjab North,irrigated,tube well,rabi,Nov,optimal,6.8,21.9,513.7,56.6,101.1,50.6,48.7,87.3,Subhani-21
+loamy,Central Punjab,rainfed,tube well,rabi,Dec,late,6.1,22.5,499.1,58.7,108.3,54.8,44.0,83.1,Subhani-21
+loamy,Potohar,irrigated,tube well,rabi,Oct,early,6.8,23.5,531.7,55.9,85.5,53.1,56.1,86.0,Falak-24
+loamy,Central Punjab,rainfed,mixed,rabi,Nov,optimal,6.8,21.9,495.5,56.0,118.1,45.9,54.0,81.6,Dilkash-20
+clay loam,Central Punjab,irrigated,rainfed,rabi,Dec,late,6.8,23.9,483.6,50.3,80.6,52.6,44.8,81.4,Subhani-21
+silt loam,Central Punjab,rainfed,mixed,rabi,Oct,early,6.7,22.8,572.0,51.1,91.3,43.3,57.5,84.9,Subhani-21
+sandy loam,South Punjab,irrigated,canal,rabi,Nov,optimal,6.5,23.5,554.7,57.4,119.7,49.0,46.1,89.6,Sawera-24
+silt loam,South Punjab,rainfed,canal,rabi,Dec,late,6.9,22.3,647.5,52.5,116.3,49.4,57.8,84.8,Sawera-24
+silt loam,Central Punjab,irrigated,mixed,rabi,Oct,early,6.1,23.0,598.1,50.4,106.5,50.1,58.7,85.3,Falak-24
+silt loam,Potohar,rainfed,mixed,rabi,Nov,optimal,6.1,23.8,493.8,51.8,90.4,58.7,57.5,84.4,Arooj-22
+loamy,Punjab North,irrigated,tube well,rabi,Dec,late,6.6,22.5,564.7,50.7,117.3,49.6,46.6,87.7,Sawera-24
+sandy loam,Potohar,rainfed,mixed,rabi,Oct,early,6.8,22.7,607.1,50.8,93.3,50.6,55.2,86.7,Arooj-22
+sandy loam,Canal Area,irrigated,tube well,rabi,Nov,optimal,7.0,23.7,557.0,50.2,106.5,48.9,57.1,80.9,Subhani-21
+silt loam,South Punjab,rainfed,canal,rabi,Dec,late,6.3,22.3,542.6,51.6,114.2,56.6,59.8,86.5,Sawera-24
+loamy,Punjab North,irrigated,tube well,rabi,Oct,early,6.7,23.2,478.4,59.4,98.0,44.1,58.5,85.4,Subhani-21
+loamy,Punjab North,rainfed,mixed,rabi,Nov,optimal,6.9,21.1,536.9,51.4,93.3,49.4,59.4,87.3,Subhani-21
+sandy loam,Canal Area,irrigated,canal,rabi,Dec,late,6.1,21.0,504.0,58.9,101.5,41.4,40.6,80.5,Sawera-24
+loamy,Canal Area,rainfed,rainfed,rabi,Oct,early,6.1,21.7,611.2,58.0,106.6,59.4,43.8,88.4,Arooj-22
+loamy,Central Punjab,irrigated,tube well,rabi,Nov,optimal,6.6,21.4,598.6,56.7,100.0,44.5,57.4,88.4,Subhani-21
+loamy,South Punjab,rainfed,canal,rabi,Dec,late,6.2,22.9,602.4,50.5,81.1,57.9,47.6,85.8,Sawera-24
+clay loam,South Punjab,irrigated,tube well,rabi,Oct,early,6.6,21.3,473.6,56.9,105.0,52.5,48.9,88.8,Subhani-21
+silt loam,Potohar,rainfed,canal,rabi,Nov,optimal,6.4,22.5,625.3,57.6,94.7,47.2,50.6,81.5,Dilkash-20
+sandy loam,Central Punjab,irrigated,canal,rabi,Dec,late,6.4,21.2,507.1,51.2,109.2,48.3,48.3,89.5,Sawera-24
+sandy loam,Central Punjab,rainfed,tube well,rabi,Oct,early,6.4,23.0,536.5,58.1,116.6,47.2,53.7,82.2,Subhani-21
+clay loam,Central Punjab,irrigated,rainfed,rabi,Nov,optimal,6.4,21.2,576.4,55.5,103.8,53.7,43.3,88.0,Subhani-21
+silt loam,Central Punjab,rainfed,canal,rabi,Dec,late,6.6,22.6,539.0,51.8,82.2,52.5,40.2,88.8,Dilkash-20
+sandy loam,South Punjab,irrigated,canal,rabi,Oct,early,6.0,21.8,615.7,56.5,93.1,43.3,50.5,82.6,Arooj-22
+loamy,South Punjab,rainfed,canal,rabi,Nov,optimal,6.2,22.6,605.5,57.0,98.5,55.5,41.9,85.5,Dilkash-20
+sandy loam,Central Punjab,irrigated,rainfed,rabi,Dec,late,6.2,22.7,535.3,51.6,89.9,59.7,41.1,84.0,Arooj-22
+loamy,Potohar,rainfed,rainfed,rabi,Oct,early,6.5,22.2,626.8,54.2,112.6,42.8,58.4,89.3,Arooj-22
+clay loam,Punjab North,irrigated,mixed,rabi,Nov,optimal,6.3,23.3,452.0,50.5,91.8,47.8,59.1,84.2,Subhani-21
+loamy,Punjab North,rainfed,tube well,rabi,Dec,late,6.5,22.1,473.8,53.0,115.5,48.4,53.1,80.0,Subhani-21
+sandy loam,Potohar,irrigated,rainfed,rabi,Oct,early,6.8,22.3,548.8,55.2,84.2,41.3,51.6,81.5,Arooj-22
+sandy loam,Central Punjab,rainfed,tube well,rabi,Nov,optimal,7.0,22.1,547.7,57.9,105.9,52.0,42.0,84.5,Subhani-21
+sandy loam,South Punjab,irrigated,mixed,rabi,Dec,late,6.7,21.9,584.7,56.9,106.7,49.3,55.0,83.3,Sawera-24
+clay loam,Punjab North,rainfed,tube well,rabi,Oct,early,6.5,24.0,574.7,58.0,91.6,56.2,44.4,87.9,Subhani-21
+clay loam,Canal Area,irrigated,rainfed,rabi,Nov,optimal,6.3,21.5,598.3,51.8,92.0,50.1,57.6,89.0,Dilkash-20
+silt loam,Canal Area,rainfed,tube well,rabi,Dec,late,6.8,21.9,609.1,55.2,100.3,48.7,46.1,86.1,Dilkash-20
+sandy loam,Potohar,irrigated,rainfed,rabi,Oct,early,6.7,21.2,487.7,53.9,90.6,52.9,50.6,84.1,Arooj-22
+loamy,Central Punjab,rainfed,tube well,rabi,Nov,optimal,6.2,23.3,522.5,57.9,103.2,44.6,48.2,80.8,Subhani-21
+clay loam,Punjab North,irrigated,rainfed,rabi,Dec,late,6.6,22.2,639.9,59.6,85.5,42.4,45.0,84.2,Subhani-21
+sandy loam,Central Punjab,rainfed,rainfed,rabi,Oct,early,6.3,23.7,492.0,58.4,115.4,51.7,54.1,87.8,Arooj-22
+sandy loam,Punjab North,irrigated,tube well,rabi,Nov,optimal,6.0,21.1,626.6,57.3,102.8,40.1,59.9,84.5,Subhani-21
+clay loam,Potohar,rainfed,mixed,rabi,Dec,late,6.9,22.7,468.9,57.0,85.4,56.0,50.5,89.8,Sawera-24
+silt loam,Potohar,irrigated,canal,rabi,Oct,early,6.1,22.0,538.4,56.5,90.6,45.8,58.8,87.3,Falak-24
+clay loam,Canal Area,rainfed,mixed,rabi,Nov,optimal,6.1,22.7,578.7,51.7,99.8,50.1,49.1,87.9,Dilkash-20
+clay loam,Central Punjab,irrigated,tube well,rabi,Dec,late,6.9,21.9,583.7,56.8,87.0,48.9,48.5,81.6,Subhani-21
+loamy,Canal Area,rainfed,mixed,rabi,Oct,early,6.6,21.9,616.8,55.7,97.4,51.0,53.6,80.8,Dilkash-20
+loamy,Central Punjab,irrigated,rainfed,rabi,Nov,optimal,6.6,21.5,580.7,55.2,107.0,54.7,56.8,87.6,Dilkash-20
+silt loam,Canal Area,rainfed,canal,rabi,Dec,late,6.2,22.2,579.0,57.9,84.2,57.2,53.5,89.0,Dilkash-20
+sandy loam,South Punjab,irrigated,tube well,rabi,Oct,early,6.0,23.7,508.6,55.9,85.1,54.1,56.6,85.7,Arooj-22
+clay loam,South Punjab,rainfed,tube well,rabi,Nov,optimal,7.0,23.9,466.9,54.6,103.7,59.5,47.2,88.5,Subhani-21
+silt loam,South Punjab,irrigated,tube well,rabi,Dec,late,6.6,22.8,621.2,51.9,112.1,53.7,42.6,82.0,Sawera-24
+loamy,South Punjab,rainfed,canal,rabi,Oct,early,6.9,21.2,569.9,51.6,98.2,40.6,42.0,85.9,Sawera-24
+clay loam,Punjab North,irrigated,rainfed,rabi,Nov,optimal,6.1,21.3,568.0,54.2,110.6,60.0,47.8,87.7,Subhani-21
+sandy loam,South Punjab,rainfed,tube well,rabi,Dec,late,6.3,23.7,464.4,55.1,93.6,42.9,50.1,81.4,Sawera-24
+loamy,Potohar,irrigated,mixed,rabi,Oct,early,7.0,23.1,554.2,59.4,90.7,45.9,54.1,83.5,Arooj-22
+loamy,Potohar,rainfed,tube well,rabi,Nov,optimal,6.1,22.8,599.4,54.7,114.8,48.2,52.6,82.5,Dilkash-20
+loamy,Punjab North,irrigated,tube well,rabi,Dec,late,6.1,23.9,648.3,54.2,116.8,59.9,46.5,81.6,Sawera-24
+silt loam,South Punjab,rainfed,tube well,rabi,Oct,early,6.4,22.0,610.3,58.1,110.8,40.1,45.2,80.7,Falak-24
+sandy loam,South Punjab,irrigated,tube well,rabi,Nov,optimal,6.6,23.8,551.9,59.3,101.0,53.6,42.0,84.4,Sawera-24
+clay loam,South Punjab,rainfed,rainfed,rabi,Dec,late,6.6,22.8,501.0,59.1,100.9,52.6,47.4,83.3,Sawera-24
+silt loam,Canal Area,irrigated,mixed,rabi,Oct,early,6.3,22.9,476.6,50.8,114.0,41.6,50.2,85.6,Dilkash-20
+silt loam,Central Punjab,rainfed,rainfed,rabi,Nov,optimal,6.9,22.6,546.3,51.3,107.2,54.2,40.7,89.6,Subhani-21
+silt loam,Canal Area,irrigated,mixed,rabi,Dec,late,6.6,21.6,610.2,51.8,105.5,41.5,48.9,85.6,Dilkash-20
+loamy,Central Punjab,rainfed,tube well,rabi,Oct,early,6.5,21.9,637.6,53.9,103.6,57.3,58.6,81.4,Dilkash-20
+sandy loam,South Punjab,irrigated,canal,rabi,Nov,optimal,6.3,23.5,501.4,55.4,114.9,45.8,57.6,86.7,Sawera-24
+silt loam,South Punjab,rainfed,rainfed,rabi,Dec,late,6.2,23.7,493.5,56.1,94.9,58.6,47.1,84.6,Sawera-24
+clay loam,Canal Area,irrigated,canal,rabi,Oct,early,6.0,21.4,593.5,57.7,81.9,51.9,47.4,86.0,Falak-24
+sandy loam,Canal Area,rainfed,rainfed,rabi,Nov,optimal,6.5,22.1,562.2,56.0,114.1,58.7,50.2,88.7,Dilkash-20
+clay loam,Central Punjab,irrigated,tube well,rabi,Dec,late,6.2,22.6,553.4,54.7,119.8,50.2,40.1,85.0,Subhani-21
+sandy loam,Potohar,rainfed,rainfed,rabi,Oct,early,6.4,21.9,526.2,50.3,116.7,50.1,41.8,88.2,Arooj-22
+clay loam,Central Punjab,irrigated,tube well,rabi,Nov,optimal,6.0,23.7,590.4,53.3,117.5,42.3,43.3,87.2,Subhani-21
+loamy,Canal Area,rainfed,rainfed,rabi,Dec,late,6.6,21.0,457.7,51.7,92.8,47.0,45.3,82.6,Sawera-24
+silt loam,Canal Area,irrigated,tube well,rabi,Oct,early,6.9,23.1,464.7,51.0,116.8,47.5,57.5,86.0,Dilkash-20
+clay loam,Punjab North,rainfed,tube well,rabi,Nov,optimal,6.2,22.4,579.2,52.9,80.3,59.0,40.3,80.4,Subhani-21
+sandy loam,Canal Area,irrigated,mixed,rabi,Dec,late,6.9,21.1,490.3,52.9,110.1,40.5,50.5,88.5,Sawera-24
+silt loam,Punjab North,rainfed,tube well,rabi,Oct,early,7.0,21.0,498.8,53.6,112.7,46.7,40.3,89.3,Falak-24
+silt loam,Potohar,irrigated,mixed,rabi,Nov,optimal,6.1,22.8,460.7,56.1,88.4,56.6,42.7,81.1,Arooj-22
+sandy loam,Central Punjab,rainfed,tube well,rabi,Dec,late,6.7,23.8,615.2,57.8,92.7,41.2,51.9,88.5,Sawera-24
+clay loam,Central Punjab,irrigated,canal,rabi,Oct,early,6.3,21.6,563.0,54.1,86.7,48.1,45.6,82.5,Falak-24
+loamy,Punjab North,rainfed,tube well,rabi,Nov,optimal,6.6,21.3,588.0,58.4,96.8,47.4,54.1,88.5,Subhani-21
+loamy,Central Punjab,irrigated,canal,rabi,Dec,late,6.9,22.2,621.8,56.3,110.0,51.1,45.4,80.7,Sawera-24
+clay loam,Canal Area,rainfed,canal,rabi,Oct,early,6.3,22.8,580.0,53.0,95.3,59.1,43.0,83.8,Dilkash-20
+silt loam,South Punjab,irrigated,tube well,rabi,Nov,optimal,6.8,21.6,473.8,51.9,92.7,40.1,40.2,88.7,Dilkash-20
+silt loam,Punjab North,rainfed,canal,rabi,Dec,late,6.7,21.7,580.5,54.6,104.6,44.2,49.1,87.7,Falak-24
+silt loam,Central Punjab,irrigated,mixed,rabi,Oct,early,6.9,21.4,479.8,59.0,119.3,46.4,41.1,82.6,Falak-24
+silt loam,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.4,22.2,635.0,53.3,102.5,54.3,45.9,82.4,Falak-24
+clay loam,Punjab North,irrigated,tube well,rabi,Dec,late,6.8,21.8,616.6,57.4,97.1,58.7,45.1,82.7,Subhani-21
+silt loam,South Punjab,rainfed,canal,rabi,Oct,early,6.7,21.6,511.5,51.4,113.6,53.0,44.4,86.6,Falak-24
+sandy loam,Canal Area,irrigated,tube well,rabi,Nov,optimal,6.7,22.7,537.3,57.2,82.5,52.9,59.2,80.7,Dilkash-20
+silt loam,Punjab North,rainfed,mixed,rabi,Dec,late,6.0,23.0,587.9,50.9,110.7,55.1,52.1,84.2,Falak-24
+loamy,Central Punjab,irrigated,tube well,rabi,Oct,early,6.7,23.2,531.0,56.7,87.8,40.1,42.1,89.2,Subhani-21
+silt loam,Potohar,rainfed,tube well,rabi,Nov,optimal,6.9,23.0,506.5,51.1,104.4,56.4,57.2,81.3,Subhani-21
+clay loam,Punjab North,irrigated,canal,rabi,Dec,late,6.1,21.5,508.6,57.5,111.3,43.6,43.6,84.7,Falak-24
+loamy,Punjab North,rainfed,mixed,rabi,Oct,early,6.3,23.2,466.7,52.1,86.9,55.7,43.2,82.1,Falak-24
+clay loam,South Punjab,irrigated,rainfed,rabi,Nov,optimal,6.5,21.1,621.8,51.2,91.6,58.7,47.4,80.0,Subhani-21
+clay loam,Canal Area,rainfed,rainfed,rabi,Dec,late,6.7,23.7,455.3,51.3,96.2,51.8,49.1,80.6,Sawera-24
+loamy,Potohar,irrigated,canal,rabi,Oct,early,6.8,23.4,509.7,57.6,84.6,47.3,43.6,83.4,Falak-24
+clay loam,Central Punjab,rainfed,tube well,rabi,Nov,optimal,6.8,24.0,463.3,57.2,95.9,41.4,43.5,86.1,Subhani-21
+clay loam,Potohar,irrigated,canal,rabi,Dec,late,6.7,21.5,496.8,53.6,98.9,45.8,54.9,87.5,Sawera-24
+silt loam,Central Punjab,rainfed,canal,rabi,Oct,early,6.9,23.0,641.7,55.6,88.9,52.7,53.8,89.4,Falak-24
+sandy loam,Canal Area,irrigated,canal,rabi,Nov,optimal,6.5,22.4,529.9,52.1,95.0,49.2,52.3,84.4,Dilkash-20
+clay loam,Central Punjab,rainfed,tube well,rabi,Dec,late,6.6,21.4,599.7,57.5,118.2,44.3,57.6,82.1,Subhani-21
+clay loam,South Punjab,irrigated,mixed,rabi,Oct,early,6.9,21.4,475.1,58.6,112.8,55.0,45.1,84.3,Sawera-24
+clay loam,South Punjab,rainfed,canal,rabi,Nov,optimal,6.8,22.9,492.1,54.0,102.9,44.4,40.1,80.3,Sawera-24
+silt loam,South Punjab,irrigated,tube well,rabi,Dec,late,6.0,21.0,573.2,53.0,88.8,49.0,50.1,82.9,Sawera-24
+sandy loam,South Punjab,rainfed,mixed,rabi,Oct,early,6.9,23.5,532.5,58.8,116.2,59.9,49.0,88.3,Sawera-24
+loamy,Potohar,irrigated,canal,rabi,Nov,optimal,6.6,21.8,528.6,55.9,112.6,56.1,54.3,82.0,Dilkash-20
+silt loam,Canal Area,rainfed,rainfed,rabi,Dec,late,6.0,23.4,569.8,51.4,114.0,52.6,56.9,80.6,Sawera-24
+silt loam,Central Punjab,irrigated,mixed,rabi,Oct,early,6.7,22.3,511.7,56.0,90.4,59.3,40.7,87.4,Dilkash-20
+sandy loam,Central Punjab,rainfed,canal,rabi,Nov,optimal,6.1,21.2,507.4,52.3,82.4,56.5,58.3,81.9,Dilkash-20
+sandy loam,South Punjab,irrigated,mixed,rabi,Dec,late,6.1,22.7,553.3,58.8,90.6,46.2,43.0,82.8,Sawera-24
+silt loam,South Punjab,rainfed,mixed,rabi,Oct,early,6.0,22.7,508.3,55.0,85.5,43.5,59.7,85.5,Falak-24
+loamy,Punjab North,irrigated,mixed,rabi,Nov,optimal,7.0,23.6,454.3,59.4,117.1,55.3,40.1,84.6,Subhani-21
+silt loam,Canal Area,rainfed,mixed,rabi,Dec,late,6.5,23.6,578.3,56.0,119.4,58.9,59.3,82.9,Sawera-24
+sandy loam,Potohar,irrigated,mixed,rabi,Oct,early,6.5,21.9,555.1,58.4,119.3,54.6,43.2,89.0,Arooj-22
+loamy,Central Punjab,rainfed,mixed,rabi,Nov,optimal,7.0,22.3,574.3,51.6,105.8,41.1,52.0,86.8,Subhani-21
+sandy loam,Punjab North,irrigated,canal,rabi,Dec,late,6.4,23.7,484.9,51.9,102.0,54.7,51.4,80.1,Sawera-24
+loamy,Punjab North,rainfed,rainfed,rabi,Oct,early,6.7,23.0,463.6,54.4,97.3,54.5,40.4,82.6,Falak-24
+clay loam,Central Punjab,irrigated,tube well,rabi,Nov,optimal,6.2,23.7,547.7,51.1,114.4,55.0,43.4,82.9,Subhani-21
+sandy loam,Potohar,rainfed,mixed,rabi,Dec,late,6.3,23.1,481.0,54.9,99.5,47.2,54.9,89.6,Arooj-22
+sandy loam,Punjab North,irrigated,tube well,rabi,Oct,early,6.5,23.6,491.9,52.2,82.5,54.9,42.0,86.3,Falak-24
+silt loam,Punjab North,rainfed,canal,rabi,Nov,optimal,6.6,21.8,632.5,51.7,82.8,59.3,48.4,88.1,Falak-24
+sandy loam,Canal Area,irrigated,mixed,rabi,Dec,late,6.2,21.1,527.3,51.8,102.0,45.5,43.8,85.1,Sawera-24
+sandy loam,Potohar,rainfed,rainfed,rabi,Oct,early,6.2,23.5,610.4,59.6,117.8,56.2,54.3,83.4,Arooj-22
+clay loam,Punjab North,irrigated,tube well,rabi,Nov,optimal,6.2,22.8,566.1,58.0,115.5,56.8,50.2,84.0,Subhani-21
+sandy loam,Potohar,rainfed,mixed,rabi,Dec,late,6.6,22.6,628.2,59.5,100.6,59.3,49.5,84.7,Arooj-22
+clay loam,Central Punjab,irrigated,canal,rabi,Oct,early,6.9,21.5,614.2,50.4,83.4,45.1,48.9,85.7,Subhani-21
+clay loam,South Punjab,rainfed,rainfed,rabi,Nov,optimal,6.1,22.1,597.2,59.4,104.9,56.9,44.7,80.9,Subhani-21
+clay loam,Punjab North,irrigated,tube well,rabi,Dec,late,6.1,23.6,601.5,50.6,103.0,53.6,57.8,84.6,Subhani-21
+clay loam,Canal Area,rainfed,tube well,rabi,Oct,early,6.2,22.8,620.7,52.4,86.9,53.5,43.6,82.2,Subhani-21
+loamy,Central Punjab,irrigated,mixed,rabi,Nov,optimal,6.2,23.1,496.0,55.2,108.6,44.5,46.3,85.6,Subhani-21
+silt loam,Potohar,rainfed,rainfed,rabi,Dec,late,6.3,23.0,545.8,59.0,117.6,56.8,48.9,89.0,Arooj-22
+loamy,Central Punjab,irrigated,rainfed,rabi,Oct,early,6.4,23.4,506.5,58.0,111.2,46.5,50.4,87.2,Subhani-21
+sandy loam,Punjab North,rainfed,rainfed,rabi,Nov,optimal,6.2,23.5,500.3,53.7,83.4,49.6,48.4,82.1,Arooj-22
+loamy,Potohar,irrigated,rainfed,rabi,Dec,late,6.3,22.1,550.2,56.0,114.6,43.5,58.4,89.2,Arooj-22
+loamy,South Punjab,rainfed,canal,rabi,Oct,early,6.2,22.0,586.6,51.9,92.7,59.2,54.4,88.9,Falak-24
+sandy loam,Central Punjab,irrigated,rainfed,rabi,Nov,optimal,6.1,22.7,576.6,53.9,106.8,51.6,43.0,84.4,Subhani-21
+sandy loam,Punjab North,rainfed,tube well,rabi,Dec,late,6.5,23.4,531.5,57.5,103.8,50.8,58.3,85.3,Subhani-21
+sandy loam,Canal Area,irrigated,tube well,rabi,Oct,early,6.6,23.4,623.8,52.3,92.7,41.9,46.7,86.6,Dilkash-20
+loamy,Potohar,rainfed,canal,rabi,Nov,optimal,6.5,22.1,595.8,50.8,117.9,42.1,57.8,85.6,Dilkash-20
+loamy,Central Punjab,irrigated,tube well,rabi,Dec,late,6.1,23.8,461.1,50.1,96.9,57.2,58.9,82.0,Sawera-24
+sandy loam,Central Punjab,rainfed,tube well,rabi,Oct,early,6.0,23.0,646.1,59.2,96.2,48.4,45.2,80.8,Subhani-21
+silt loam,South Punjab,irrigated,rainfed,rabi,Nov,optimal,6.7,22.5,580.4,53.9,111.7,46.5,48.2,87.1,Dilkash-20
+silt loam,South Punjab,rainfed,tube well,rabi,Dec,late,6.4,22.8,596.8,52.5,102.9,58.5,54.6,81.7,Sawera-24
+clay loam,Canal Area,irrigated,canal,rabi,Oct,early,6.3,22.8,569.4,58.4,80.4,43.2,55.6,82.3,Dilkash-20
+sandy loam,Canal Area,rainfed,rainfed,rabi,Nov,optimal,6.7,22.4,620.9,57.1,82.5,40.8,41.4,80.2,Dilkash-20
+clay loam,Punjab North,irrigated,mixed,rabi,Dec,late,6.7,22.7,458.8,57.2,111.8,50.9,55.1,88.2,Subhani-21
+silt loam,Punjab North,rainfed,rainfed,rabi,Oct,early,6.6,23.3,467.5,50.1,101.8,53.8,47.2,84.7,Falak-24
+clay loam,Canal Area,irrigated,canal,rabi,Nov,optimal,6.7,22.2,482.1,52.7,119.9,40.9,45.0,84.2,Dilkash-20
+sandy loam,Canal Area,rainfed,rainfed,rabi,Dec,late,6.5,23.0,568.4,53.0,86.0,51.4,45.7,83.3,Sawera-24
+sandy loam,Potohar,irrigated,rainfed,rabi,Oct,early,7.0,21.4,619.0,50.9,105.3,56.1,51.8,80.7,Arooj-22
+sandy loam,South Punjab,rainfed,canal,rabi,Nov,optimal,7.0,21.9,607.4,59.2,107.3,55.5,52.0,88.1,Sawera-24
+loamy,Punjab North,irrigated,rainfed,rabi,Dec,late,6.3,22.4,529.2,56.4,113.5,53.0,48.6,86.0,Falak-24
+clay loam,South Punjab,rainfed,canal,rabi,Oct,early,6.7,21.6,572.1,51.9,80.1,59.6,54.8,89.2,Sawera-24
+silt loam,South Punjab,irrigated,canal,rabi,Nov,optimal,6.0,21.6,484.6,55.4,107.6,54.6,47.6,86.0,Dilkash-20
+silt loam,Canal Area,rainfed,mixed,rabi,Dec,late,6.1,21.7,511.3,53.1,90.3,47.7,45.5,86.8,Dilkash-20
+silt loam,Potohar,irrigated,tube well,rabi,Oct,early,6.2,21.4,544.7,58.9,110.3,52.8,43.9,82.5,Arooj-22
+loamy,Central Punjab,rainfed,tube well,rabi,Nov,optimal,6.2,21.9,603.3,57.6,94.6,49.2,42.1,81.7,Dilkash-20
+loamy,Potohar,irrigated,rainfed,rabi,Dec,late,6.4,21.7,537.7,51.9,88.7,58.9,51.5,81.3,Arooj-22
+sandy loam,Potohar,rainfed,rainfed,rabi,Oct,early,6.3,23.2,514.5,52.5,94.0,43.6,41.4,83.1,Arooj-22
+silt loam,South Punjab,irrigated,mixed,rabi,Nov,optimal,6.2,22.7,521.9,57.6,108.6,46.3,46.7,82.7,Dilkash-20
+loamy,Potohar,rainfed,mixed,rabi,Dec,late,6.6,22.6,510.6,50.1,84.2,53.4,46.3,80.7,Sawera-24
+sandy loam,Punjab North,irrigated,mixed,rabi,Oct,early,6.1,23.3,517.5,52.1,82.2,57.7,45.1,86.4,Arooj-22
+silt loam,South Punjab,rainfed,canal,rabi,Nov,optimal,6.1,22.3,494.7,53.8,112.9,50.1,55.3,85.4,Dilkash-20
+clay loam,Punjab North,irrigated,mixed,rabi,Dec,late,6.7,22.8,545.4,58.2,116.7,41.7,58.0,85.5,Subhani-21
+sandy loam,Central Punjab,rainfed,mixed,rabi,Oct,early,6.4,21.1,594.0,55.9,80.7,53.5,43.6,82.3,Arooj-22
+loamy,South Punjab,irrigated,rainfed,rabi,Nov,optimal,6.5,21.2,584.6,55.9,90.2,48.3,48.2,87.6,Sawera-24
+loamy,Central Punjab,rainfed,mixed,rabi,Dec,late,6.3,21.2,534.4,57.1,84.9,40.8,59.9,81.5,Sawera-24
+sandy loam,South Punjab,irrigated,canal,rabi,Oct,early,6.9,21.1,561.9,51.6,94.7,41.0,44.8,84.0,Sawera-24
+sandy loam,Canal Area,rainfed,canal,rabi,Nov,optimal,6.5,21.2,468.9,55.8,116.5,42.2,40.2,86.2,Dilkash-20
+loamy,Potohar,irrigated,rainfed,rabi,Dec,late,6.2,23.6,500.3,51.8,95.1,42.6,40.6,87.0,Arooj-22
+clay loam,Canal Area,rainfed,mixed,rabi,Oct,early,6.1,24.0,480.9,52.0,104.3,45.4,47.9,89.7,Dilkash-20
+silt loam,Central Punjab,irrigated,mixed,rabi,Nov,optimal,6.9,23.4,524.7,56.3,92.6,42.1,47.9,89.8,Subhani-21
+clay loam,Potohar,rainfed,canal,rabi,Dec,late,6.2,22.4,555.6,56.4,118.9,42.0,41.3,86.5,Sawera-24
+sandy loam,South Punjab,irrigated,mixed,rabi,Oct,early,7.0,21.0,465.0,58.4,108.8,57.3,53.1,85.1,Arooj-22
+clay loam,Potohar,rainfed,mixed,rabi,Nov,optimal,6.8,21.1,485.4,55.4,84.8,55.7,52.8,84.7,Subhani-21
+loamy,Punjab North,irrigated,mixed,rabi,Dec,late,6.4,23.9,608.5,54.4,90.2,56.1,48.6,86.4,Sawera-24
+sandy loam,Potohar,rainfed,tube well,rabi,Oct,early,6.3,22.6,620.1,51.1,117.4,48.4,47.5,82.6,Arooj-22
+silt loam,Punjab North,irrigated,rainfed,rabi,Nov,optimal,6.0,22.1,477.4,58.7,113.4,54.0,55.9,87.6,Falak-24
+loamy,Potohar,rainfed,tube well,rabi,Dec,late,6.5,24.0,572.4,51.1,101.1,44.9,41.6,89.1,Sawera-24
+loamy,Punjab North,irrigated,rainfed,rabi,Oct,early,7.0,21.9,549.4,59.8,104.4,43.2,50.0,81.0,Arooj-22
+silt loam,Central Punjab,rainfed,canal,rabi,Nov,optimal,6.2,23.4,632.7,54.4,108.0,48.8,50.9,88.2,Subhani-21
+silt loam,Canal Area,irrigated,mixed,rabi,Dec,late,6.9,21.4,563.6,54.7,112.8,57.7,43.6,89.7,Sawera-24
+clay loam,South Punjab,rainfed,rainfed,rabi,Oct,early,6.8,22.9,567.5,53.7,105.1,58.7,55.5,82.8,Sawera-24
+sandy loam,Potohar,irrigated,tube well,rabi,Nov,optimal,6.1,23.4,493.0,54.0,115.8,44.3,53.2,80.7,Arooj-22
+silt loam,Canal Area,rainfed,mixed,rabi,Dec,late,6.5,23.7,567.6,54.6,106.7,46.6,55.6,88.3,Sawera-24
+silt loam,South Punjab,irrigated,canal,rabi,Oct,early,6.4,23.4,644.1,54.9,107.0,48.6,59.8,87.3,Falak-24
+sandy loam,South Punjab,rainfed,rainfed,rabi,Nov,optimal,7.0,23.6,635.2,58.8,91.0,42.1,55.0,88.5,Sawera-24
+silt loam,Punjab North,irrigated,rainfed,rabi,Dec,late,6.4,23.6,548.8,56.6,89.0,59.5,51.3,89.7,Falak-24
+silt loam,Central Punjab,rainfed,rainfed,rabi,Oct,early,6.3,22.9,582.9,54.0,103.5,46.3,40.2,83.9,Falak-24
+clay loam,Central Punjab,irrigated,mixed,rabi,Nov,optimal,6.3,21.8,548.8,59.3,111.2,54.4,52.4,81.3,Subhani-21
+loamy,Canal Area,rainfed,tube well,rabi,Dec,late,6.1,23.4,512.0,58.0,86.6,59.0,44.3,87.2,Sawera-24
+loamy,Central Punjab,irrigated,tube well,rabi,Oct,early,6.8,23.3,488.8,53.9,101.8,59.5,45.4,83.7,Subhani-21
+loamy,Potohar,rainfed,rainfed,rabi,Nov,optimal,6.8,21.0,526.5,54.8,108.5,48.6,53.4,88.3,Arooj-22
+loamy,Central Punjab,irrigated,canal,rabi,Dec,late,6.2,22.9,578.8,57.1,98.0,41.3,50.8,82.2,Sawera-24
+silt loam,Canal Area,rainfed,canal,rabi,Oct,early,7.0,22.6,585.8,50.1,101.6,43.5,40.8,81.8,Falak-24
+sandy loam,Central Punjab,irrigated,tube well,rabi,Nov,optimal,6.7,23.3,605.0,51.6,109.2,50.1,41.6,88.1,Subhani-21
+sandy loam,Potohar,rainfed,canal,rabi,Dec,late,6.4,23.1,466.9,56.0,87.0,43.8,46.6,80.5,Sawera-24
+clay loam,Punjab North,irrigated,tube well,rabi,Oct,early,6.5,22.0,475.9,59.2,86.8,50.6,48.2,85.4,Falak-24
+clay loam,Canal Area,rainfed,rainfed,rabi,Nov,optimal,6.1,23.4,629.2,56.1,89.4,53.5,42.9,89.1,Subhani-21
+silt loam,Punjab North,irrigated,tube well,rabi,Dec,late,6.5,21.5,579.9,52.2,117.8,47.1,47.9,89.8,Falak-24
+sandy loam,Punjab North,rainfed,tube well,rabi,Oct,early,6.8,21.7,600.0,55.3,93.0,44.0,41.5,89.4,Falak-24
+sandy loam,Punjab North,irrigated,rainfed,rabi,Nov,optimal,7.0,22.3,541.7,59.7,109.7,47.5,53.3,83.1,Arooj-22
+loamy,South Punjab,rainfed,canal,rabi,Dec,late,6.4,22.4,558.3,59.6,97.3,55.3,42.3,84.9,Sawera-24
+silt loam,South Punjab,irrigated,tube well,rabi,Oct,early,6.6,21.5,601.5,51.5,102.4,44.2,55.2,85.0,Falak-24
+silt loam,Punjab North,rainfed,tube well,rabi,Nov,optimal,6.4,21.5,587.8,55.6,98.2,46.9,43.8,85.4,Falak-24
+loamy,Canal Area,irrigated,rainfed,rabi,Dec,late,6.1,21.3,507.9,52.5,83.9,57.8,41.0,85.8,Sawera-24
+silt loam,Potohar,rainfed,canal,rabi,Oct,early,6.8,22.7,556.6,55.1,94.3,51.9,40.2,80.4,Falak-24
+silt loam,Potohar,irrigated,tube well,rabi,Nov,optimal,6.5,22.2,637.8,55.9,119.9,57.3,55.9,83.7,Dilkash-20
+clay loam,Central Punjab,rainfed,rainfed,rabi,Dec,late,6.7,22.5,530.9,52.5,110.8,51.7,56.4,84.5,Subhani-21
+sandy loam,Canal Area,irrigated,tube well,rabi,Oct,early,6.3,21.4,585.8,58.3,114.1,44.6,49.0,83.3,Arooj-22
+silt loam,South Punjab,rainfed,mixed,rabi,Nov,optimal,6.4,23.3,486.4,54.0,80.5,53.5,48.6,84.4,Dilkash-20
+clay loam,Punjab North,irrigated,rainfed,rabi,Dec,late,7.0,23.6,575.0,57.0,111.3,52.9,52.7,87.7,Subhani-21
+sandy loam,Central Punjab,rainfed,canal,rabi,Oct,early,6.8,22.3,585.5,53.3,86.4,47.4,47.1,86.1,Subhani-21
+loamy,Potohar,irrigated,canal,rabi,Nov,optimal,6.5,22.3,642.3,51.2,101.3,46.4,43.9,80.9,Dilkash-20
+clay loam,South Punjab,rainfed,canal,rabi,Dec,late,6.5,22.9,612.8,50.1,87.2,50.7,45.9,85.4,Sawera-24
+clay loam,South Punjab,irrigated,canal,rabi,Oct,early,6.4,23.9,592.5,58.3,94.5,51.3,42.2,82.0,Sawera-24
+sandy loam,Punjab North,rainfed,tube well,rabi,Nov,optimal,6.7,22.3,540.6,53.9,98.0,59.1,41.8,83.5,Subhani-21
+loamy,Potohar,irrigated,tube well,rabi,Dec,late,6.3,23.2,558.5,51.5,83.2,41.4,45.3,81.9,Sawera-24
+clay loam,Canal Area,rainfed,canal,rabi,Oct,early,6.7,23.6,462.8,58.1,106.8,43.4,54.9,80.2,Subhani-21
+silt loam,South Punjab,irrigated,canal,rabi,Nov,optimal,6.7,21.3,500.1,53.0,83.3,47.9,48.2,87.3,Dilkash-20
+silt loam,Punjab North,rainfed,canal,rabi,Dec,late,6.6,23.7,504.7,52.1,119.6,59.0,44.1,80.1,Sawera-24
+silt loam,Canal Area,irrigated,tube well,rabi,Oct,early,6.2,24.0,565.0,51.3,86.9,41.8,59.6,81.2,Dilkash-20
+loamy,Potohar,rainfed,canal,rabi,Nov,optimal,6.6,21.6,471.8,55.4,98.9,50.7,42.4,82.2,Dilkash-20
+clay loam,South Punjab,irrigated,canal,rabi,Dec,late,6.6,21.9,487.3,50.0,95.4,51.1,44.1,89.6,Sawera-24
+silt loam,Canal Area,rainfed,mixed,rabi,Oct,early,6.5,23.0,488.7,53.0,98.8,48.4,51.6,82.5,Dilkash-20
+loamy,Canal Area,irrigated,mixed,rabi,Nov,optimal,7.0,22.8,592.5,56.5,81.5,57.3,51.2,88.3,Dilkash-20
+silt loam,Canal Area,rainfed,canal,rabi,Dec,late,6.7,21.8,619.7,52.3,101.6,43.2,43.1,89.8,Dilkash-20
+sandy loam,South Punjab,irrigated,rainfed,rabi,Oct,early,6.2,22.9,478.1,57.8,107.9,54.7,49.7,88.4,Arooj-22
+clay loam,South Punjab,rainfed,canal,rabi,Nov,optimal,7.0,21.3,633.4,58.4,86.5,52.1,43.4,87.1,Sawera-24
+clay loam,Central Punjab,irrigated,mixed,rabi,Dec,late,6.5,22.4,474.5,51.4,99.8,42.7,45.5,85.9,Subhani-21
+loamy,Potohar,rainfed,rainfed,rabi,Oct,early,6.9,23.9,639.6,59.8,97.1,59.0,52.3,82.6,Arooj-22
+loamy,Punjab North,irrigated,rainfed,rabi,Nov,optimal,6.1,23.2,643.5,54.2,100.0,54.8,49.7,87.5,Subhani-21
+clay loam,Canal Area,rainfed,canal,rabi,Dec,late,6.1,22.1,502.5,51.9,102.4,41.5,53.6,86.7,Sawera-24
+silt loam,Central Punjab,irrigated,mixed,rabi,Oct,early,6.3,21.2,501.9,57.3,104.0,42.8,44.1,83.1,Falak-24
+silt loam,Punjab North,rainfed,mixed,rabi,Nov,optimal,6.4,22.2,493.5,56.6,90.1,53.1,51.9,87.0,Falak-24
+sandy loam,Central Punjab,irrigated,rainfed,rabi,Dec,late,6.0,22.3,534.2,56.5,110.4,49.1,47.4,80.5,Sawera-24
+silt loam,South Punjab,rainfed,canal,rabi,Oct,early,6.4,21.0,484.2,50.0,114.5,40.2,52.7,89.9,Falak-24
+loamy,Canal Area,irrigated,tube well,rabi,Nov,optimal,6.1,23.9,483.3,55.2,103.9,53.0,58.8,89.9,Dilkash-20
+loamy,Punjab North,rainfed,tube well,rabi,Dec,late,6.2,22.9,600.6,50.8,108.4,44.4,50.7,84.5,Falak-24
+silt loam,Punjab North,irrigated,mixed,rabi,Oct,early,6.3,23.4,626.6,59.3,111.9,46.1,55.5,85.5,Falak-24
+loamy,Punjab North,rainfed,tube well,rabi,Nov,optimal,6.2,21.1,462.2,56.5,119.9,48.6,40.1,85.8,Subhani-21
+clay loam,Punjab North,irrigated,mixed,rabi,Dec,late,6.7,22.8,591.4,56.1,112.3,59.3,44.0,82.5,Subhani-21
+clay loam,Punjab North,rainfed,mixed,rabi,Oct,early,6.4,23.1,522.1,50.4,113.9,50.1,56.9,89.6,Falak-24
+silt loam,Central Punjab,irrigated,mixed,rabi,Nov,optimal,6.6,22.2,466.4,52.7,97.1,56.5,58.1,83.0,Dilkash-20
+clay loam,Canal Area,rainfed,tube well,rabi,Dec,late,6.8,22.3,581.8,52.6,99.5,50.0,44.9,88.6,Sawera-24
+clay loam,South Punjab,irrigated,mixed,rabi,Oct,early,6.5,21.3,476.5,58.5,118.0,57.6,54.8,88.1,Sawera-24
+sandy loam,South Punjab,rainfed,rainfed,rabi,Nov,optimal,6.2,23.2,472.0,58.5,97.2,51.9,50.9,87.3,Arooj-22
+sandy loam,South Punjab,irrigated,canal,rabi,Dec,late,6.8,21.6,463.8,55.5,116.4,41.0,54.7,86.2,Sawera-24
+clay loam,South Punjab,rainfed,canal,rabi,Oct,early,6.5,22.4,510.4,58.9,95.5,52.4,45.2,84.8,Sawera-24
+silt loam,Central Punjab,irrigated,mixed,rabi,Nov,optimal,6.1,23.0,534.6,51.2,94.7,59.6,49.0,82.0,Subhani-21
+sandy loam,Potohar,rainfed,canal,rabi,Dec,late,6.8,23.9,608.6,51.8,101.9,50.6,49.7,80.7,Sawera-24
+loamy,Canal Area,irrigated,tube well,rabi,Oct,early,7.0,21.2,590.9,52.9,118.8,53.5,43.1,83.4,Dilkash-20
+loamy,Punjab North,rainfed,tube well,rabi,Nov,optimal,6.0,22.8,592.1,52.6,118.0,43.8,42.5,89.8,Subhani-21
+loamy,Potohar,irrigated,canal,rabi,Dec,late,6.4,23.1,479.9,53.5,98.8,52.1,43.2,88.2,Sawera-24
+silt loam,South Punjab,rainfed,tube well,rabi,Oct,early,6.2,22.9,606.8,58.9,101.3,44.2,48.0,85.1,Falak-24
+clay loam,Potohar,irrigated,canal,rabi,Nov,optimal,6.6,22.1,566.6,59.2,83.9,51.2,52.0,84.1,Subhani-21
+loamy,Canal Area,rainfed,canal,rabi,Dec,late,6.9,22.8,461.4,57.0,87.1,48.1,41.7,83.7,Sawera-24
+silt loam,Punjab North,irrigated,canal,rabi,Oct,early,6.0,21.0,503.3,56.9,109.9,57.9,46.7,82.8,Falak-24
+sandy loam,Punjab North,rainfed,mixed,rabi,Nov,optimal,6.8,23.0,460.1,52.7,87.7,54.4,42.1,87.4,Subhani-21
+clay loam,Canal Area,irrigated,canal,rabi,Dec,late,6.8,23.6,514.7,57.3,88.4,54.6,53.5,81.4,Sawera-24
+sandy loam,Canal Area,rainfed,mixed,rabi,Oct,early,6.0,23.1,461.5,57.8,105.5,47.0,54.6,88.6,Arooj-22
+silt loam,South Punjab,irrigated,canal,rabi,Nov,optimal,6.4,21.3,507.4,50.7,111.6,45.6,58.9,88.5,Dilkash-20
+loamy,Punjab North,rainfed,canal,rabi,Dec,late,6.7,22.6,612.1,57.8,105.4,45.9,55.4,80.5,Sawera-24
+loamy,Potohar,irrigated,canal,rabi,Oct,early,6.4,23.7,504.7,56.8,105.9,54.1,45.9,82.3,Falak-24
+silt loam,Central Punjab,rainfed,tube well,rabi,Nov,optimal,6.8,21.4,522.7,53.7,81.8,51.2,49.4,85.3,Subhani-21
+loamy,Central Punjab,irrigated,mixed,rabi,Dec,late,6.7,22.5,457.9,52.7,94.3,48.5,54.3,88.6,Sawera-24
+clay loam,Canal Area,rainfed,mixed,rabi,Oct,early,6.1,23.3,552.9,51.4,111.1,43.3,40.1,82.5,Dilkash-20
+silt loam,South Punjab,irrigated,canal,rabi,Nov,optimal,6.6,21.6,647.0,59.6,82.9,50.1,57.3,83.8,Dilkash-20
+sandy loam,Central Punjab,rainfed,canal,rabi,Dec,late,6.4,21.7,568.9,50.9,102.2,56.9,52.3,89.4,Sawera-24
+silt loam,Punjab North,irrigated,tube well,rabi,Oct,early,6.4,23.5,467.7,51.0,117.8,57.2,54.0,81.4,Falak-24
+clay loam,Canal Area,rainfed,tube well,rabi,Nov,optimal,6.0,21.9,539.1,53.3,106.7,49.7,47.3,85.7,Dilkash-20
+clay loam,Potohar,irrigated,tube well,rabi,Dec,late,6.2,21.7,497.1,51.2,119.8,54.1,42.8,81.1,Sawera-24
+silt loam,Canal Area,rainfed,mixed,rabi,Oct,early,6.8,23.2,587.2,50.2,103.7,58.9,50.3,80.3,Dilkash-20
+silt loam,Potohar,irrigated,mixed,rabi,Nov,optimal,6.6,21.1,595.5,59.8,95.2,57.3,48.1,83.7,Arooj-22
+loamy,Canal Area,rainfed,mixed,rabi,Dec,late,6.7,22.5,648.6,57.5,99.2,46.5,47.0,84.1,Sawera-24
+clay loam,Canal Area,irrigated,canal,rabi,Oct,early,6.4,23.0,640.3,59.0,117.4,51.3,54.8,84.5,Dilkash-20
+silt loam,Canal Area,rainfed,mixed,rabi,Nov,optimal,6.3,23.8,524.4,51.2,109.1,42.8,54.9,87.4,Dilkash-20
+silt loam,Potohar,irrigated,rainfed,rabi,Dec,late,6.4,21.2,498.1,50.7,82.7,42.3,49.0,89.8,Arooj-22
+clay loam,Potohar,rainfed,rainfed,rabi,Oct,early,6.7,23.9,454.0,56.5,84.9,49.6,56.5,80.4,Arooj-22
+silt loam,Canal Area,irrigated,tube well,rabi,Nov,optimal,6.2,22.6,640.6,57.5,104.2,47.2,47.8,90.0,Dilkash-20
+loamy,Central Punjab,rainfed,mixed,rabi,Dec,late,6.4,22.9,575.0,56.0,115.0,45.2,46.7,88.0,Sawera-24
+clay loam,South Punjab,irrigated,rainfed,rabi,Oct,early,6.8,23.8,553.7,57.4,86.6,41.4,58.8,81.6,Sawera-24
+loamy,South Punjab,rainfed,tube well,rabi,Nov,optimal,6.1,21.0,486.4,54.8,82.1,48.9,57.8,88.8,Dilkash-20
+loamy,South Punjab,irrigated,mixed,rabi,Dec,late,6.6,23.8,465.2,54.5,90.5,57.5,47.2,80.1,Sawera-24
+loamy,Potohar,rainfed,canal,rabi,Oct,early,6.1,23.4,606.0,54.3,85.3,57.5,43.1,86.0,Falak-24
+loamy,Potohar,irrigated,rainfed,rabi,Nov,optimal,6.4,22.8,631.7,53.5,93.6,54.9,58.8,86.8,Arooj-22
+clay loam,Central Punjab,rainfed,canal,rabi,Dec,late,6.6,23.1,637.8,58.0,109.2,57.9,58.6,89.8,Subhani-21
+loamy,South Punjab,irrigated,mixed,rabi,Oct,early,6.3,23.0,648.9,58.0,94.7,49.1,42.3,88.7,Sawera-24
+loamy,South Punjab,rainfed,rainfed,rabi,Nov,optimal,6.4,23.1,515.8,59.0,85.5,45.1,50.6,86.7,Sawera-24
+silt loam,Canal Area,irrigated,mixed,rabi,Dec,late,6.1,21.8,524.6,58.2,82.7,40.3,55.7,83.8,Dilkash-20
+clay loam,Potohar,rainfed,canal,rabi,Oct,early,6.6,21.5,635.8,53.2,114.8,42.9,42.9,86.8,Arooj-22
+clay loam,South Punjab,irrigated,rainfed,rabi,Nov,optimal,6.9,22.7,495.8,56.7,99.9,57.5,46.0,89.9,Sawera-24
+sandy loam,Central Punjab,rainfed,canal,rabi,Dec,late,6.0,21.9,541.4,53.6,117.5,44.5,56.1,86.6,Sawera-24
+clay loam,Central Punjab,irrigated,mixed,rabi,Oct,early,6.5,22.9,467.7,55.5,104.7,53.6,55.1,85.0,Subhani-21
+clay loam,South Punjab,rainfed,mixed,rabi,Nov,optimal,6.1,21.5,576.3,58.7,101.3,59.6,55.0,85.4,Sawera-24
+sandy loam,Potohar,irrigated,canal,rabi,Dec,late,6.2,23.7,572.6,51.3,94.7,48.6,54.8,80.4,Arooj-22
+clay loam,Central Punjab,rainfed,rainfed,rabi,Oct,early,6.0,22.5,557.7,51.3,98.8,56.2,47.4,89.3,Subhani-21
+clay loam,Canal Area,irrigated,canal,rabi,Nov,optimal,6.5,22.8,622.2,54.2,95.5,52.3,54.8,86.1,Dilkash-20
+clay loam,Central Punjab,rainfed,mixed,rabi,Dec,late,6.7,21.0,519.7,54.4,110.3,51.0,45.3,87.6,Subhani-21
+clay loam,Punjab North,irrigated,canal,rabi,Oct,early,6.8,22.1,497.2,54.0,97.4,53.6,55.1,89.6,Falak-24
+sandy loam,Punjab North,rainfed,mixed,rabi,Nov,optimal,6.2,22.3,482.7,53.1,105.3,42.1,48.9,88.6,Arooj-22
+clay loam,Potohar,irrigated,canal,rabi,Dec,late,6.3,22.0,607.6,56.4,119.1,45.3,50.5,80.5,Falak-24
+clay loam,South Punjab,rainfed,rainfed,rabi,Oct,early,6.7,22.1,622.3,57.5,81.8,56.7,47.0,88.8,Arooj-22

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817558701544",
+    "project_id": "smart-seed-recommender",
+    "storage_bucket": "smart-seed-recommender.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817558701544:android:c6bbb61ad3c591fa1b905d",
+        "android_client_info": {
+          "package_name": "com.example.seed_recommender_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgxDBhKYgRqbjfKHRKcT1wHkzDiWQUMCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

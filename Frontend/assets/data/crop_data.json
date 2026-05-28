@@ -1,0 +1,214 @@
+{
+  "crops": [
+    {
+      "name": "Maize",
+      "details": {
+        "prepare_land": "Prepare land",
+        "seed_prepare": {
+          "fungicide": "Thiram",
+          "insecticide": "Imidacloprid"
+        },
+        "optimal_temperature": "26-32 C",
+        "optimal_sowing_time": "July 25 to August 20",
+        "seed_sowing_depth": "1.2-1.5 inch",
+        "fertilizers": [
+          "DAP",
+          "SOP",
+          "Boron",
+          "Urea",
+          "Zinc"
+        ],
+        "watering": "Watering after every 10-12 days",
+        "weeding": "Trimming by hands + Mesotrione + Atrazine for broad leaves"
+      },
+      "instructions": [
+        "Always give water on time at pollination stage.",
+        "Don’t give poison to remove narrow leaves weeding because it creates stress on crop.",
+        "While adding fertilizers and other chemicals for disease resistance consult with expert to use appropriate quantity."
+      ],
+      "seed_varieties": [
+        {
+          "name": "Borlooyh-1898",
+          "yield": "90 to 105 Maunds/Acre",
+          "price_range": "PKR 5,500 to PKR 7,000 per bag"
+        },
+        {
+          "name": "NK-6240",
+          "yield": "75 to 85 Maunds/Acre",
+          "price_range": "PKR 8,200 to PKR 11,500 per bag"
+        },
+        {
+          "name": "DK-919",
+          "yield": "70 to 80 Maunds/Acre",
+          "price_range": "PKR 12,500 to PKR 14,500 per bag"
+        },
+        {
+          "name": "DK-5219",
+          "yield": "60 to 70 Maunds/Acre",
+          "price_range": "PKR 11,000 to PKR 13,500 per bag"
+        },
+        {
+          "name": "PIONEER 30Y87",
+          "yield": "85 to 100 Maunds/Acre",
+          "price_range": "PKR 9,600 to PKR 15,000 per bag"
+        }
+      ]
+    },
+    {
+      "name": "Cotton",
+      "details": {
+        "prepare_land": "Prepare land",
+        "seed_prepare": {
+          "fungicide": "Thiophenate Methyl",
+          "insecticide": "Imidacloprid"
+        },
+        "optimal_temperature": "25-35 C",
+        "optimal_sowing_time": "April 1 to May 31",
+        "seed_sowing_depth": "1-1.5 inch",
+        "fertilizers": [
+          "DAP",
+          "SOP",
+          "Boron",
+          "Urea",
+          "Zinc"
+        ],
+        "watering": "First irrigation 30 to 35 Days (Bed/Ridge planting) or 40 to 45 Days (Flat sowing)",
+        "weeding": "Pendimethalin 33% EC for first 30 days safety"
+      },
+      "instructions": [
+        "Always Adopt Bed-Furrow Sowing (Ridge Planting).",
+        "Maintain a Strict Plant Population (The 45-cm Rule).",
+        "While adding fertilizers and other chemicals for disease resistance consult with expert to use appropriate quantity."
+      ],
+      "seed_varieties": [
+        {
+          "name": "Cyto-24",
+          "yield": "22 to 30 Maunds/Acre",
+          "price_range": "PKR 6,000 – 6,600"
+        },
+        {
+          "name": "FH-1148",
+          "yield": "40 to 48 Maunds/Acre",
+          "price_range": "PKR 6,500 – 7,500"
+        },
+        {
+          "name": "FH-333",
+          "yield": "35 to 45 Maunds/Acre",
+          "price_range": "PKR 6,350 – 6,800"
+        },
+        {
+          "name": "BS-352",
+          "yield": "30 to 38 Maunds/Acre",
+          "price_range": "PKR 6,200 – 6,700"
+        },
+        {
+          "name": "FH-MR2",
+          "yield": "32 to 40 Maunds/Acre",
+          "price_range": "PKR 5,800 – 6,500"
+        }
+      ]
+    },
+    {
+      "name": "Rice",
+      "details": {
+        "prepare_land": "Prepare land",
+        "seed_prepare": {
+          "fungicide": "Carbendazim + Thiram",
+          "insecticide": "Imidacloprid"
+        },
+        "optimal_temperature": "20-30 C",
+        "optimal_sowing_time": "10 May to 15 July",
+        "fertilizers": [
+          "DAP",
+          "SOP",
+          "Boron",
+          "Urea",
+          "Zinc"
+        ],
+        "watering": "Maintain standing water of 2–3 inches and irrigate after every 5–7 days depending on soil condition",
+        "weeding": "Hand weeding + Butachlor + Bispyribac Sodium for grassy and broadleaf weeds"
+      },
+      "instructions": [
+        "Always maintain proper water level during flowering and grain filling stages because these stages are very sensitive to water stress.",
+        "Avoid excessive use of nitrogen fertilizers because it may increase disease attack and lodging in rice crop.",
+        "While adding fertilizers and other chemicals for disease resistance consult with expert to use appropriate quantity."
+      ],
+      "seed_varieties": [
+        {
+          "name": "Basmati",
+          "yield": "45 to 55 Maunds/Acre",
+          "price_range": "PKR 4,500 – 5,800"
+        },
+        {
+          "name": "IRRI-6",
+          "yield": "60 to 75 Maunds/Acre",
+          "price_range": "PKR 3,800 – 5,000"
+        },
+        {
+          "name": "Super Basmati",
+          "yield": "50 to 65 Maunds/Acre",
+          "price_range": "PKR 5,500 – 7,000"
+        },
+        {
+          "name": "1509-Rice",
+          "yield": "55 to 70 Maunds/Acre",
+          "price_range": "PKR 6,000 – 7,500"
+        },
+        {
+          "name": "Kainat-1121",
+          "yield": "50 to 65 Maunds/Acre",
+          "price_range": "PKR 6,500 – 8,000"
+        }
+      ]
+    },
+    {
+      "name": "Wheat",
+      "details": {
+        "prepare_land": "Prepare land",
+        "seed_prepare": {
+          "fungicide": "Carboxin + Thiram",
+          "insecticide": "Imidacloprid"
+        },
+        "optimal_temperature": "15-25 C",
+        "optimal_sowing_time": "November 1 to November 30",
+        "seed_sowing_depth": "1.5-2 inch",
+        "fertilizers": [
+          "DAP",
+          "Urea",
+          "SOP",
+          "Zinc Sulphate"
+        ],
+        "watering": "Watering after every 12-15 days depending on soil moisture and weather conditions",
+        "weeding": "Hand trimming + Clodinafop + Isoproturon for grassy and broadleaf weeds"
+      },
+      "instructions": [
+        "Always ensure proper irrigation at tillering and grain filling stages because these stages are very important for wheat yield.",
+        "Avoid overwatering because excessive moisture may cause fungal diseases and weak roots.",
+        "Use certified seed varieties and maintain recommended seed rate for better production.",
+        "While applying fertilizers, pesticides, and fungicides consult an agricultural expert for proper dosage and safe use."
+      ],
+      "seed_varieties": [
+        {
+          "name": "Arooj-22",
+          "yield": "55 to 65 Maunds/Acre",
+          "price_range": "PKR 5,700 – 8,000"
+        },
+        {
+          "name": "Dilkash-20",
+          "yield": "55 to 80 Maunds/Acre",
+          "price_range": "PKR 5,700 – 8,050"
+        },
+        {
+          "name": "Subhani-21",
+          "yield": "55 to 65 Maunds/Acre",
+          "price_range": "PKR 6,850 – 7,900"
+        },
+        {
+          "name": "Sawera-24",
+          "yield": "70 to 85 Maunds/Acre",
+          "price_range": "PKR 7,000 – 8,435"
+        }
+      ]
+    }
+  ]
+}
