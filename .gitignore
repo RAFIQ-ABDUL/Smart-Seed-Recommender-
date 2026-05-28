@@ -1,0 +1,23 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Android Studio
+.idea/
+.gradle/
+local.properties
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
