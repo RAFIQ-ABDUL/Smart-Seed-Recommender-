@@ -14,7 +14,7 @@ The platform uses a decoupled multi-tier architectural design pattern split into
 
 ---
 
-## 🛠️ Tech Stack & Key Tooling
+## Tech Stack & Key Tooling
 
 - **Frontend Client:** Flutter, Dart, Shared Preferences (Local state cache)
 - **Backend API Server:** Python 3.11+, FastAPI, Pydantic (Data validation rules), Uvicorn
@@ -23,7 +23,7 @@ The platform uses a decoupled multi-tier architectural design pattern split into
 
 ---
 
-## 📦 System Features & Functional Map
+## System Features & Functional Map
 
 - **Target Crop Selection:** Dedicated parameter entry configurations tailored dynamically for Wheat, Maize, Rice, or Cotton.
 - **Client-Side Form Guarding:** Localized validation checks that actively intercept empty text inputs or out-of-bounds soil characteristics (e.g., pH scales outside $0.0 - 14.0$).
